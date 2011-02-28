@@ -1,0 +1,127 @@
+#define ARMY_CARRYOVER ISLAND
+	[set_menu_item]
+		id=load_on_ship
+		description= _"load"
+		[show_if]
+			[variable]
+				loading=yes
+			[/variable]
+		[/show_if]
+		[filter_location]
+			[filter]
+				side=1
+				[not]
+					[filter_wml]
+						upkeep=loyal
+					[/filter_wml]
+					[or]
+						canrecruit=yes
+					[/or]
+				[/not]
+				[filter_wml]
+					[variable]
+						loaded=no
+					[/variable]
+				[/filter_wml]
+			[/filter]
+		[/filter_location]
+		[command]
+			{VARIABLE unit.variables.loaded yes}
+		[/command]
+	[/set_menu_item]
+
+	[set_menu_item]
+		id=load_off_ship
+		description= _"land"
+		[show_if]
+			[variable]
+				loading=yes
+			[/variable]
+		[/show_if]
+		[filter_location]
+			[filter]
+				side=1
+				[not]
+					[filter_wml]
+						upkeep=loyal
+					[/filter_wml]
+					[or]
+						canrecruit=yes
+					[/or]
+				[/not]
+				[filter_wml]
+					[variable]
+						loaded=yes
+					[/variable]
+				[/filter_wml]
+			[/filter]
+		[/filter_location]
+		[command]
+			{VARIABLE unit.variables.loaded no}
+		[/command]
+	[/set_menu_item]
+
+[store_unit]
+	[filter]
+		side=1
+		[not]
+			[filter_wml]
+				upkeep=loyal
+			[/filter_wml]
+			[or]
+				canrecruit=yes
+			[/or]
+		[/not]
+	[/filter]
+	variable=side1
+[/store_unit]
+
+{IF_VAR side1.length greater_than $limit (
+	[then]
+		[message]
+			speaker=narrator
+			message= _"Warning, you have units left on the shore. Do you want really to leave?"
+			[option]
+				message= _"yes"
+				[command]
+					[store_unit]
+						[filter]
+							side=1
+							[filter_wml]
+								[variable]
+									loaded=no
+								[/variable]
+							[/filter_wml]
+						[/filter]
+						kill=yes
+						variable={ISLAND}
+					[/store_unit]
+					[endlevel]
+						result=victory
+					[/endlevel]
+				[/command]
+			[/option]
+			[option]
+				message= _"no"
+				[command]
+				[/command]
+			[/option]
+	[/then]
+)}
+#enddef
+
+			{VARIABLE finished no}
+			[while]
+				[variable]
+					name=finished
+					not_equals=yes
+				[/variable]
+				[do]
+					[message]
+						speaker=narrator
+						caption=
+						image=
+						message= _""
+					[/message]
+				[/do]
+			[/while]
