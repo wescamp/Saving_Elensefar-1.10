@@ -34,9 +34,9 @@
 		id=load_off_ship
 		description= _"land"
 		[show_if]
-			[variable]
+			[variables]
 				loading=yes
-			[/variable]
+			[/variables]
 		[/show_if]
 		[filter_location]
 			[filter]
@@ -50,9 +50,9 @@
 					[/or]
 				[/not]
 				[filter_wml]
-					[variable]
+					[variables]
 						loaded=yes
-					[/variable]
+					[/variables]
 				[/filter_wml]
 			[/filter]
 		[/filter_location]
@@ -84,18 +84,27 @@
 			[option]
 				message= _"yes"
 				[command]
-					[store_unit]
-						[filter]
-							side=1
-							[filter_wml]
-								[variable]
-									loaded=no
-								[/variable]
-							[/filter_wml]
-						[/filter]
-						kill=yes
-						variable={ISLAND}
-					[/store_unit]
+					{VARIABLE a side1.length}
+					[while]
+						[variable]
+							name=a
+							greater_than=$limit
+						[/variable]
+						[do]
+							[store_unit]
+								[filter]
+									id=side1[$a].id
+									[not]
+										find_in={ISLAND}
+									[/not]
+								[/filter]
+								kill=yes
+								mode=append
+								variable={ISLAND}
+							[/store_unit]
+							{VARIABLE a sub "${ISLAND}.length"}
+						[/do]
+					[/while]
 					[endlevel]
 						result=victory
 					[/endlevel]
