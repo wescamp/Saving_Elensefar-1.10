@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-03-01 15:37+0100\n"
+"POT-Creation-Date: 2011-03-11 18:39+0100\n"
 "PO-Revision-Date: 2011-03-01 15:37+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ca\n"
 
 #. [campaign]: id=saving_elensefar
 #. [scenario]: id=sea_voyage_plus1
@@ -169,16 +169,15 @@ msgid "Madru"
 msgstr ""
 
 #. [side]: type=Orcish Warrior
-#. [side]: type=Goblin Pillager
 #. [side]: type=Orcish Crossbowman
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:135
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:160
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:184
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:159
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:183
 msgid "Orcish Pillagers"
 msgstr ""
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:194
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:193
 msgid "Move Meneldur to the Explorer"
 msgstr ""
 
@@ -198,7 +197,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:48
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:51
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:52
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:198
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:197
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:66
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:85
 msgid "Death of Meneldur"
@@ -220,26 +219,26 @@ msgstr ""
 #: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:52
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:55
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:56
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:202
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:201
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:70
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:89
 msgid "Death of Madru"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:216
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:215
 msgid ""
 "Orcs! Orcs are attacking! There are too many, we can't fight them off, we "
 "have to reach the ship!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:220
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:219
 msgid "Aye aye, Cap'n. All men to the ship, quick as you can!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:244
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:243
 msgid "Now, we go out to sea. I expect our city is doomed..."
 msgstr ""
 
@@ -1459,7 +1458,7 @@ msgid ""
 "for a few days."
 msgstr ""
 
-#. [scenario]: id=sea_voyage_3, race=orc (
+#. [scenario]: id=sea_voyage_3, (type=Black Galleon) (, race=orc (
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:6
 msgid "Theft"
 msgstr ""
@@ -2534,7 +2533,7 @@ msgid "We have failed reaching the Westlands in time."
 msgstr ""
 
 #. [message]
-#: Saving_Elensefar/utils/utils.cfg:224
+#: Saving_Elensefar/utils/utils.cfg:238
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:732
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:743
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:754
@@ -2858,45 +2857,45 @@ msgid "Ship Dock"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/utils/utils.cfg:98
+#: Saving_Elensefar/utils/utils.cfg:112
 msgid "Do you really want to run away?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Saving_Elensefar/utils/utils.cfg:100
+#: Saving_Elensefar/utils/utils.cfg:114
 msgid "Yes"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/utils/utils.cfg:104
+#: Saving_Elensefar/utils/utils.cfg:118
 msgid "Fall back!"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Saving_Elensefar/utils/utils.cfg:142
+#: Saving_Elensefar/utils/utils.cfg:156
 msgid "No"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/utils/utils.cfg:146
+#: Saving_Elensefar/utils/utils.cfg:160
 msgid "Fight on!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/utils/utils.cfg:201
+#: Saving_Elensefar/utils/utils.cfg:215
 msgid "Remember we can retreat at any time, just move your leader to the ship."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/utils/utils.cfg:205
+#: Saving_Elensefar/utils/utils.cfg:219
 msgid "But then we haven't time to refill our ship..."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/utils/utils.cfg:209
+#: Saving_Elensefar/utils/utils.cfg:223
 msgid "I hope it would never be needed."
 msgstr ""
 
-#: Saving_Elensefar/utils/utils.cfg:227
+#: Saving_Elensefar/utils/utils.cfg:241
 msgid "Elensefar's Loyalists"
 msgstr ""
