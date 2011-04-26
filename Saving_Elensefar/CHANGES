@@ -91,11 +91,21 @@ v1.4.3
 - patroling wesnothian ships
 - enlarged swampland
 
+v1.4.4
+- bugfixing (typos)
+- balancing
+
+v1.4.6
+- further bugfixing & testing
+- fixed ability blitz
+- saurians offer 'eye of basilisk' in 'saurian trap'
+- new scenario: 'Illaryan the Illusionist'
+
 ***************
 
 # TODO
 - alduin, caves and saurian trap need story
-- dialogue redo on 'The Swampland'
+- dialogue redo on 'The Swampland' and 'Illaryan..'
 - change 'Off the Peninsula'
 
 ## trewe - sjrs456 at yahoo dot fr ##
