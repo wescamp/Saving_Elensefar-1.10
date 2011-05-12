@@ -101,6 +101,12 @@ v1.4.6
 - saurians offer 'eye of basilisk' in 'saurian trap'
 - new scenario: 'Illaryan the Illusionist'
 
+v1.4.7
+- fixed 3 gamebreaking bugs
+- fixed battle tutor ability
+- tweaked ai
+- balancing
+
 ***************
 
 # TODO
