@@ -2,58 +2,63 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-03-17 02:52+0100\n"
+"POT-Creation-Date: 2011-05-23 19:53+0200\n"
 "PO-Revision-Date: 2011-03-17 02:52+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: ang\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ang\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
 
 #. [campaign]: id=saving_elensefar
 #. [scenario]: id=sea_voyage_plus1
-#: Saving_Elensefar/_main.cfg:17
+#: Saving_Elensefar/_main.cfg:19
 #: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:6
 msgid "Saving Elensefar"
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
-#: Saving_Elensefar/_main.cfg:18
+#: Saving_Elensefar/_main.cfg:20
 msgid "SE"
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
-#: Saving_Elensefar/_main.cfg:19
+#: Saving_Elensefar/_main.cfg:22
 msgid ""
 "Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who "
 "attacked the city. He must gather an army willing to fight for him to regain "
-"Elensefar, his adopted homeland."
-msgstr ""
-
-#. [campaign]: id=saving_elensefar
-#: Saving_Elensefar/_main.cfg:22
-msgid "(easiest)"
-msgstr ""
-
-#. [campaign]: id=saving_elensefar
-#: Saving_Elensefar/_main.cfg:22
-msgid "Mariner"
+"Elensefar, his adopted homeland.\n"
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:23
+msgid "Expert level, 4 - 22 scenarios (+ 3 Story only)"
+msgstr ""
+
+#. [campaign]: id=saving_elensefar
+#: Saving_Elensefar/_main.cfg:26
+msgid "(easiest)"
+msgstr ""
+
+#. [campaign]: id=saving_elensefar
+#: Saving_Elensefar/_main.cfg:26
+msgid "Mariner"
+msgstr ""
+
+#. [campaign]: id=saving_elensefar
+#: Saving_Elensefar/_main.cfg:27
 msgid "Navigator"
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
-#: Saving_Elensefar/_main.cfg:24
+#: Saving_Elensefar/_main.cfg:28
 msgid "(hardest)"
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
-#: Saving_Elensefar/_main.cfg:24
+#: Saving_Elensefar/_main.cfg:28
 msgid "Admiral"
 msgstr ""
 
@@ -156,17 +161,17 @@ msgstr ""
 #. [unit]: type=Sailor, id=Madru
 #. [message]: id=The_Explorer
 #: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:86
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:100
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:111
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:374
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:383
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:420
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:435
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:444
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:616
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:643
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:688
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:697
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:132
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:143
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:433
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:442
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:479
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:494
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:503
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:675
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:702
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:747
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:756
 msgid "Madru"
 msgstr ""
 
@@ -180,55 +185,55 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:204
-msgid "Move Meneldur to the Explorer"
+msgid "Move Meneldur to the Explorer (southwest of the map)"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i6_Traitors.cfg:53
+#: Saving_Elensefar/scenarios/i6_Traitors.cfg:54
 #: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:121
 #: Saving_Elensefar/scenarios/i5_Fire_Island.cfg:182
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:84
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:99
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:80
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:129
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:58
 #: Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:123
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:105
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:106
 #: Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:67
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:53
 #: Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:50
 #: Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:85
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:76
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:71
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:81
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:54
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:79
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:71
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:173
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:57
 #: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:208
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:54
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:45
 #: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:113
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:93
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:86
 #: Saving_Elensefar/scenarios/i16_Goblins.cfg:47
 msgid "Death of Meneldur"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i6_Traitors.cfg:57
+#: Saving_Elensefar/scenarios/i6_Traitors.cfg:58
 #: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:125
 #: Saving_Elensefar/scenarios/i5_Fire_Island.cfg:186
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:88
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:103
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:84
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:133
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:62
 #: Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:127
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:109
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:110
 #: Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:71
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:57
 #: Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:54
 #: Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:89
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:80
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:75
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:85
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:58
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:83
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:75
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:177
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:61
 #: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:212
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:58
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:49
 #: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:117
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:97
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:90
 #: Saving_Elensefar/scenarios/i16_Goblins.cfg:51
 msgid "Death of Madru"
 msgstr ""
@@ -246,7 +251,7 @@ msgid "Aye aye, Cap'n. All men to the ship, quick as you can!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:254
+#: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:253
 msgid "Now, we go out to sea. I expect our city is doomed..."
 msgstr ""
 
@@ -256,116 +261,116 @@ msgid "A Naval Engagement"
 msgstr ""
 
 #. [side]: id=Black the Red, type=SE Shadow Mage
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:22
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:23
 msgid "Elensefar's Loyals"
 msgstr ""
 
 #. [side]: id=Black the Red, type=SE Shadow Mage
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:25
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:463
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:661
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:670
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:706
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:26
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:522
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:720
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:729
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:765
 msgid "Black the Red"
 msgstr ""
 
 #. [side]: id=Aldran, type=Master at Arms
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:60
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:52
 msgid "Wesnothians"
 msgstr ""
 
 #. [side]: id=Aldran, type=Master at Arms
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:62
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:54
 msgid "Aldran"
 msgstr ""
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i6_Traitors.cfg:49
+#: Saving_Elensefar/scenarios/i6_Traitors.cfg:50
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:54
 #: Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:63
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:49
 #: Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:46
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:67
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:77
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:50
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:50
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:89
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:67
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:169
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:53
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:41
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:82
 #: Saving_Elensefar/scenarios/i16_Goblins.cfg:43
 msgid "Defeat enemy leader"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i6_Traitors.cfg:61
+#: Saving_Elensefar/scenarios/i6_Traitors.cfg:62
 #: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:129
 #: Saving_Elensefar/scenarios/i5_Fire_Island.cfg:190
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:92
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:107
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:88
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:137
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:66
 #: Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:131
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:113
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:114
 #: Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:75
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:61
 #: Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:58
 #: Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:93
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:84
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:79
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:89
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:62
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:62
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:87
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:79
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:181
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:65
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:53
 #: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:121
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:101
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:94
 #: Saving_Elensefar/scenarios/i16_Goblins.cfg:55
 msgid "Death of Black the Red"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:148
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:141
 msgid ""
 "Why do you stop us? We seek help. I come from Elensefar, which, as far as we "
 "can tell, was just captured by orcs!"
 msgstr ""
 
 #. [message]: id=Aldran
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:152
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:145
 msgid ""
 "You are interfering with our mission; we are trying to chase down this "
 "magician pirate."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:156
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:149
 msgid ""
 "I'm not a pirate! I also come from Elensefar, and I must have left port a "
 "few days before it was attacked. This is the first I've heard of it."
 msgstr ""
 
 #. [message]: id=Aldran
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:160
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:153
 msgid ""
 "You dog, don't bother us with your lies! You attacked a ship of the Royal "
 "Navy with your spells, and now you will pay for it!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:164
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:157
 msgid ""
 "I need loyal warriors from Elensefar to help me on my quest. Black the Red, "
 "do you want to join me in retaking Elensefar from these orcs?"
 msgstr ""
 
 #. [message]: id=Aldran
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:168
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:161
 msgid ""
 "Outlaws, you mean! These Elensians are all the same. Troops, destroy them!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:172
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:165
 msgid "Why is a ship from Elensefar carrying bandits and thieves?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:176
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:169
 msgid ""
 "They come from the... less _wealthy_ parts of Elensefar. But they are still "
 "fiercely loyal to it. They will be good fighters. I will join, if you'll "
@@ -373,14 +378,14 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:180
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:173
 msgid ""
 "Very well. Thats not so different from my own crew. Aldran - we will not "
 "fight you if you do not attack us, but you must let us go on our way."
 msgstr ""
 
 #. [message]: id=Aldran
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:184
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:177
 msgid ""
 "Ha! I will bring you and your ally in to Weldyn to be tried for treason. And "
 "it does not matter it is two boats to one; I have already sent a boat to "
@@ -388,27 +393,27 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:188
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:181
 msgid "Remember, crew, the healing grog is stored in those barrels."
 msgstr ""
 
-#. [message]: id=$temp2.id
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:240
+#. [message]: id=$temp.id
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:222
 msgid "Ah, some nice, refreshing grog! *gulp*"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:244
-msgid "Drinking the grog heals $temp.name|!"
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:226
+msgid "Drinking the grog heals $temp.name!"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:291
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:289
 msgid "Well, what is it anyway that you people want? Why did you help us?"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:295
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:293
 msgid ""
 "We go out to sea, to build up an army large enough to retake Elensefar. "
 "You're an Elensian, right? I think you owe us your help. We did just save "
@@ -416,7 +421,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:299
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:297
 msgid ""
 "Well, I have been in Elensefar, and owe some help to it. Very well. Here is "
 "what I will do. There is an island in the west that has many warriors on it "
@@ -425,19 +430,19 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:303
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:301
 msgid "Which is?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:307
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:305
 msgid ""
 "I can't tell you until we reach the Western isle I told you about. That's "
 "part of the fun."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:311
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:309
 msgid ""
 "Oh, fine... 'I swear on Elensefar my city and on my honor as a Sailor that I "
 "will honor your request, whatever it may be, whenever we reach this Western "
@@ -445,7 +450,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:315
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:313
 msgid ""
 "Very much so. Now, I will move my troops to your boat (it is faster), and we "
 "will head on west..."
@@ -487,9 +492,9 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:117
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:80
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:76
 #: Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:81
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:72
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:75
 #: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:109
 msgid "Defeat enemy leaders"
 msgstr ""
@@ -501,14 +506,14 @@ msgid "Death of Ah-Reblak"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:153
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:154
 msgid ""
 "Black, why have you brought us here?!? This is just a remnant of a town, and "
 "there are no warriors here, just undead and orcs!"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:157
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:158
 msgid ""
 "No, no, you are wrong there. This is no ruined city, this is Blackmore the "
 "Black, and for the past seventy years it has been the home of the Wesfolk "
@@ -516,97 +521,97 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:161
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:162
 msgid ""
 "You mean those undead over there are 'Wesfolk'? As in the Wesfolk who came "
 "over with Lady Jessica?"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:165
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:166
 msgid ""
 "I would assume that is what he means, yes. So, Black, you've brought us here "
 "to have these Wesfolk help us?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:169
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:170
 msgid "Well, yes, something like that."
 msgstr ""
 
 #. [message]: id=Ah-Reblak
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:173
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:174
 msgid ""
 "I see, brother, that you have returned with warriors. Are they to help us "
 "defeat these orcs?"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:177
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:178
 msgid "What? That's not why we're here!"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:181
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:182
 msgid ""
 "Well, yes it is. You have to help them secure this city before they will "
 "help you."
 msgstr ""
 
 #. [message]: id=Ah-Reblak
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:185
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:186
 msgid "Help them? Help Islefolk? Why would we do that?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:189
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:190
 msgid ""
 "These are not Islefolk, brother, they are descendants of the Wesfolk who "
 "came over with Lady Jessica."
 msgstr ""
 
 #. [message]: id=Ah-Reblak
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:193
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:194
 msgid ""
 "What!? Followers of that deserter!? I can't believe you think we would help "
 "them!"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:197
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:198
 msgid ""
 "I didn't have a choice, they needed help, so I made a deal that we would "
 "help them if they helped us."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:201
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:202
 msgid ""
 "Trust me, we don't like helping undead any more than you like helping us "
 "'deserters'."
 msgstr ""
 
 #. [message]: id=Ah-Reblak
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:205
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:206
 msgid ""
 "Fine. I'll help you do whatever it is you want to do, once we clear this "
 "land of the orcs."
 msgstr ""
 
 #. [message]: id=Ahtanuk
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:209
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:210
 msgid "Int'resting council! But now, little men, its time to die. Get'm!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:236
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:237
 msgid ""
 "Well, we've cleared the orcs away. Come on, now you have to hold up your end "
 "of the bargain."
 msgstr ""
 
 #. [message]: id=Ah-Reblak
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:240
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:241
 msgid ""
 "Well, the orcs will probably be back soon... I think that we are going to "
 "end up dying here, no matter what you do. We have held up extraordinarily "
@@ -614,7 +619,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:244
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:245
 msgid ""
 "That's true. I think it would be best if we could get enough ships to get "
 "off of this island. The one I went out on was our last, and we can't make "
@@ -622,19 +627,19 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:248
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:249
 msgid ""
 "Well, I am a shipbuilder. I could help you build more ships, and then you "
 "could bring all of your people back east with us."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:252
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:253
 msgid "That sounds good."
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:256
+#: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:257
 msgid "Then it is agreed. But after that, you have to help us fight the orcs!"
 msgstr ""
 
@@ -658,7 +663,7 @@ msgstr ""
 #. [side]: id=Leowyn, type=Great Mage
 #. [side]: type=Lieutenant
 #: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:58
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:64
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:156
 msgid "Wesnoth Army"
 msgstr ""
 
@@ -673,26 +678,26 @@ msgid "Angry Elves"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:294
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:293
 msgid ""
 "As the warriors landed the Explorer, they overheard the elves, men and orcs "
 "talking..."
 msgstr ""
 
 #. [message]: id=Galiyonia
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:299
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:298
 msgid ""
 "Orc, you promised that, if we allied with you, you would free all the "
 "prisoners you took when you captured Elensefar. You have broken our pact!"
 msgstr ""
 
 #. [message]: id=Pakch-Glun
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:303
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:302
 msgid "Ag, elf-dog, you shuttup! I aint takin' orders fr'm you!"
 msgstr ""
 
 #. [message]: id=Leowyn
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:307
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:306
 msgid ""
 "Listen, Pakch-Glun, if you don't fufill your side of the treaty, we will "
 "attack you again! And this time, we will probably win, since our "
@@ -700,22 +705,22 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Pakch-Glun
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:311
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:310
 msgid "Heh, shur. I'd like t' see you try!"
 msgstr ""
 
 #. [message]: id=Galiyonia
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:315
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:314
 msgid "Mathein, shall we attack?"
 msgstr ""
 
 #. [message]: id=Leowyn
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:319
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:318
 msgid "Yes. Pakch-Glun, prepare to die!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:323
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:322
 msgid ""
 "This was welcome news to the crew of the Explorer. However, although the "
 "elves, men and orcs would fight each other, Meneldur still had to fight all "
@@ -723,39 +728,39 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:339
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:338
 msgid ""
 "The first enemy we will encounter will be the elves. Show them no mercy!"
 msgstr ""
 
 #. [message]: id=Galiyonia
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:343
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:342
 msgid "And we will show you none. Prepare to meet your doom!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:349
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:348
 msgid ""
 "What? There appear to be elves blocking our path! Elves, why are you in our "
 "way?"
 msgstr ""
 
 #. [message]: id=Galiyonia
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:353
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:352
 msgid ""
 "We are here to kill you! After that, we will kill the orcs, but we must kill "
 "you first."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:357
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:356
 msgid ""
 "Are you mad?! Well, if you are, I have no time to reason with you. Prepare "
 "to die!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:372
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:371
 msgid ""
 "We have come to take back Elensefar from the orcs! But remember, the men of "
 "Wesnoth will no doubt try to stop us, as will the elves. We must fight them "
@@ -763,26 +768,26 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Leowyn
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:376
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:375
 msgid "Indeed we will. You are a traitor to your country, and must die as one!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:382
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:381
 msgid ""
 "This looks like the area the men of Wesnoth have claimed to siege Elensefar "
 "from. Unfortunately, we must get past them to free the city."
 msgstr ""
 
 #. [message]: id=Leowyn
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:386
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:385
 msgid ""
 "You will not get past us while I am alive. And even if you do, the elves "
 "will stop you. If you must be a traitor, pick one nation to betray, not two!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:390
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:389
 msgid ""
 "What are you talking about? Oh, I see... my northern brethren have decided "
 "to attack me... Well, we will get past these Wesnothians first, and see what "
@@ -790,12 +795,12 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Pakch-Glun
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:394
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:393
 msgid "Prepare to die, Elensian scum!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:409
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:408
 msgid ""
 "We are in Elensefar's harbor, from where we will drive the orcs out into the "
 "faces of the elves. Although they are my brethren, we must not hold back "
@@ -803,14 +808,14 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Pakch-Glun
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:413
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:412
 msgid ""
 "Listen t' that! He really thinks 'e can kill us! We'll show 'im! Kill the "
 "invader!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:419
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:418
 msgid ""
 "We are now in Elensefar's harbor. From now, we fight until the orcs are all "
 "out of our city! Then, it appears, we will have to deal with those "
@@ -818,138 +823,138 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Galiyonia
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:423
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:422
 msgid ""
 "Yes, please, do that. Then we will not have to deal with the orcs, and only "
 "with you!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:427
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:426
 msgid "What?... Oh, its elves, from the northlands. What do you want?"
 msgstr ""
 
 #. [message]: id=Galiyonia
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:431
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:430
 msgid "You dead, traitor!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:435
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:434
 msgid "Whatever you say. We'll deal with you after we kill the orcs."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:457
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:456
 msgid "Elensefar may be ours, but there are still enemies to defeat. Onwards!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:468
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:467
 msgid ""
 "We have taken Elensefar and defeated the Wesnothians, but these Elves need "
 "attending to."
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:474
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:540
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:607
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:473
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:539
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:606
 msgid "There are no enemies left - we have succeeded in retaking Elensefar."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:488
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:487
 msgid ""
 "The orcs had ransacked the city's coffers - now it's time for us to return "
 "the favor."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:494
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:493
 msgid "You find 300 pieces of gold!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:497
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:496
 msgid "You find 250 pieces of gold!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:500
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:560
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:626
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:499
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:559
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:625
 msgid "You find 200 pieces of gold!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:523
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:522
 msgid "Good work, men. Onwards, we have to retake the city also!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:534
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:533
 msgid "Come on, we should go North and see if we can help defeat the elves."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:554
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:553
 msgid "The Wesnothians had much gold in their camp. It is ours now!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:563
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:629
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:562
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:628
 msgid "You find 175 pieces of gold!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:566
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:632
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:565
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:631
 msgid "You find 150 pieces of gold!"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:590
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:589
 msgid "Orcs still reside in the city! Come one, let us kill them too!"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:601
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:600
 msgid ""
 "Come on, we should go South and see if we can help defeat the Wesnothians."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:621
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:620
 msgid ""
 "It seems the elves brought some of their treasure out of the northlands. "
 "More for us!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:646
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:645
 msgid ""
 "Yes, Elensefar is ours, finally. Well, Black the Red, we thank you for your "
 "help."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:650
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:649
 msgid ""
 "It was an honor to fight for you. I wonder where my people will go now... "
 "the orcs have surely taken our home by now."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:654
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:653
 msgid ""
 "I'm sure we will have time to discuss that later. But for now, we must help "
 "those conquered by the orcs rebuild their city."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:745
+#: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:744
 msgid "The villagers are joining us!"
 msgstr ""
 
@@ -959,7 +964,7 @@ msgid "Attacked at Sea"
 msgstr ""
 
 #. [part]
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:16
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:15
 msgid ""
 "The city had fallen, but Meneldur and his crew had escaped. Leaving the "
 "harbor, and looking back at the city, they noticed something strange. The "
@@ -969,7 +974,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:19
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:18
 msgid ""
 "Meneldur was not sure exactly what this meant, but he knew one thing - if "
 "the city was not destroyed, then the people in it would not be either. Which "
@@ -981,53 +986,53 @@ msgstr ""
 #. [side]: id=Drake, type=Fugitive
 #. [side]
 #: Saving_Elensefar/scenarios/i5_Fire_Island.cfg:36
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:32
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:31
 msgid "Pirates"
 msgstr ""
 
 #. [side]
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:40
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:39
 msgid "Chasers"
 msgstr ""
 
 #. [unit]: id=The_Explorer, type=Black Galleon
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:79
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:353
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:413
 msgid "The Explorer"
 msgstr ""
 
 #. [unit]: id=2, role=Pirate Galley, type=Pirate Galleon
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:95
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:93
 msgid "Pirate Galley"
 msgstr ""
 
 #. [unit]: id=3, role=Wesnothian Galley, type=War Galleon
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:107
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:109
 msgid "Wesnothian Galley"
 msgstr ""
 
 #. [message]: role=Wesnothian Galley
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:119
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:121
 msgid "Stop, pirate! Surrender, or die!"
 msgstr ""
 
 #. [message]: role=Pirate Galley
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:123
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:125
 msgid "Never!"
 msgstr ""
 
 #. [message]: role=Wesnothian Galley
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:134
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:136
 msgid "Lower the gangplank! Throw the grapples! DON'T LET THEM ESCAPE!"
 msgstr ""
 
 #. [message]: id=The_Explorer
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:141
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:143
 msgid "What's going on here?"
 msgstr ""
 
 #. [message]: role=Wesnothian Galley
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:145
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:147
 msgid "So, you're getting involved too, eh? Stop that ship, men!"
 msgstr ""
 
@@ -1037,7 +1042,7 @@ msgid "Return to Elensefar"
 msgstr ""
 
 #. [part]
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:15
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:14
 msgid ""
 "And so Meneldur helped the Wesfolk build ships. They built three sturdy "
 "galleons, which was enough to hold all of them. That is how few of that once "
@@ -1045,7 +1050,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:18
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:17
 msgid ""
 "The necromancers who were on the ships cast a spell of darkness and "
 "swiftness over the boat. The next thing Meneldur and his men knew, they had "
@@ -1053,7 +1058,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:82
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:109
 msgid ""
 "Well, now we are in the port of Elensefar... It is time to retake Elensefar, "
 "as we aided Blackmore. So... does anyone have an idea as to how to attack "
@@ -1061,12 +1066,12 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:86
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:113
 msgid "Black the Red's Idea"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:87
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:114
 msgid ""
 "Here; this is my plan. On the northern side of the river, there is a cave "
 "where smugglers hide their goods. I know some bandits who won't alert anyone "
@@ -1074,52 +1079,52 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:92
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:119
 msgid "But they won't help us?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:96
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:123
 msgid ""
 "Uhm... no, probably not. But we would be rather secretive, they probably "
 "wouldn't notice us."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:100
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:127
 msgid "Madru, do you have any suggestions?"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:104
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:131
 msgid "Madru's Suggestion"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:105
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:132
 msgid ""
 "Well, we could always land on the south beach. There is a harbor there, and "
 "a quick route from there to inside the city."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:110
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:137
 msgid "But won't they see us there?"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:114
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:141
 msgid ""
 "Yes, but what's wrong with a head on battle? I think we could defeat them."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:118
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:145
 msgid "Meneldur's Plan"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:119
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:146
 msgid ""
 "Well, I think maybe we should land right in Elensefar itself. That way, we "
 "can go around most of the orcish defenses, which are probably guarding the "
@@ -1127,7 +1132,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:124
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:151
 msgid ""
 "That is a bold plan, but I'm not sure it will work. If you do not succeed "
 "immediately, you will have alerted the orcs to our presence without "
@@ -1135,34 +1140,34 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:128
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:155
 msgid "A Choice must be make"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:130
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:157
 msgid "Hm... you are right there. Which plan should we use?"
 msgstr ""
 
 #. [option]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:132
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:159
 msgid "I say we head north, as you proposed."
 msgstr ""
 
 #. [option]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:138
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:165
 msgid "Madru's plan to head south sounds the best."
 msgstr ""
 
 #. [option]: id=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:144
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:171
 msgid ""
 "Both of your plans were good, but I will stick to my own, and land in the "
 "harbor."
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:152
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:179
 msgid "Very well. Let us not waste any more time, we must fight now."
 msgstr ""
 
@@ -1172,12 +1177,12 @@ msgid "Epilogue"
 msgstr ""
 
 #. [side]: id=Daharan, type=General
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:20
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:19
 msgid "Daharan"
 msgstr ""
 
 #. [part]
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:28
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:27
 msgid ""
 "Meneldur, Black the Red, and Madru went to the Elensian palace, and searched "
 "the dungeons for prisoners taken by the orcs. They found many of the old "
@@ -1188,7 +1193,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:31
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:30
 msgid ""
 "The three rescuers told him their tale, of how Elensefar was no longer a "
 "province of Wesnoth, and of how Undead were temporarily 'living' in the "
@@ -1202,7 +1207,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:48
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:50
 msgid ""
 "I still cannot believe that the men of Wesnoth, or the elves, would really "
 "fight to keep men of Elensefar from aiding Elensefar. What made them do it, "
@@ -1210,19 +1215,19 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:52
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:54
 msgid ""
 "Well, hatred of me, and the perception that I was a traitor to my race, was "
 "what fueled the elven attack."
 msgstr ""
 
 #. [message]: id=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:56
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:58
 msgid "They were willing to sacrifice a whole city to get revenge on one elf?"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:60
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:62
 msgid ""
 "They did not think they were sacrificing it. They planned to attack the orcs "
 "right after they killed us; in fact, they were fighting the orcs at the same "
@@ -1231,7 +1236,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:64
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:66
 msgid ""
 "So they made a peace with the orcs because they feared their own kind's "
 "death? Don't they know orcs cannot be trusted? All the elves who lived in "
@@ -1239,7 +1244,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:68
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:70
 msgid ""
 "When you are in danger of being attacked, you do not think clearly. Their "
 "attack was a mixture of motives, I would say. Hatred of Meneldur, fear of an "
@@ -1248,17 +1253,17 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:72
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:74
 msgid "That does not excuse them, though, and they deserved to die."
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:76
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:78
 msgid "None of us are saying they did not."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:80
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:82
 msgid ""
 "I would. We do not know the circumstances of their peace treaty, nor even to "
 "say whether an alliance, if there had been one, would have been evil. After "
@@ -1267,14 +1272,14 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:84
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:86
 msgid ""
 "They are only similar if you assume that undead are evil. Some are, true, "
 "but not all. Mine and my brother's are not."
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:88
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:90
 msgid ""
 "I may be your ally, but I will never say your undead are not evil. You are "
 "probably not, probably you are just decieved as to what really occurs with "
@@ -1282,14 +1287,14 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:92
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:94
 msgid ""
 "Come on now. Well, it is true that the circumstances are not in truth "
 "similar, but they do appear to be. The elves may have thought they were."
 msgstr ""
 
 #. [message]: id=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:96
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:98
 msgid ""
 "I see, Meneldur. Well, I can see, in a distorted way, why the elves attacked "
 "us. But why were the humans willing to discard our age-old alliance, and "
@@ -1297,14 +1302,14 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:100
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:102
 msgid ""
 "Well, we did attack them, multiple times. Although it was really self-"
 "defence."
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:104
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:106
 msgid ""
 "They wished to defeat us first, then attack the orcs. Indeed, the elves and "
 "humans could have both had that plan. But the elves lost their temper right "
@@ -1312,12 +1317,12 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:108
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:110
 msgid "That is called treachery, and would not excuse a treaty with the orcs."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:112
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:114
 msgid ""
 "I agree that it would be treachery, but I think it is not what they planned. "
 "The men of Wesnoth do not see good and evil as we do. To them, good is what "
@@ -1327,19 +1332,19 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:116
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:118
 msgid ""
 "Possibly. However, all of this is just speculation. We cannot know why they "
 "actually attacked us, can we? We can only guess."
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:120
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:122
 msgid "Which is why this is rather pointless."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:124
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:126
 msgid ""
 "Well, I must be going. I do not know where my people will go now; so few are "
 "left alive. But I will not stay in this city, it is too dangerous. I will go "
@@ -1347,7 +1352,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:128
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:130
 msgid ""
 "Very well. I suppose this council is ended, and the real work of Daharan's "
 "reign shall begin."
@@ -1365,25 +1370,25 @@ msgstr ""
 
 #. [side]: id=Handran, type=Iron Mauler, type=Shock Trooper
 #. [side]: id=Narian, type=General
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:38
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:64
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:36
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:60
 msgid "Far West"
 msgstr ""
 
 #. [side]: id=Narian, type=General
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:52
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:50
 msgid "Nadrian"
 msgstr ""
 
 #. [message]: id=Narian
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:113
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:109
 msgid ""
 "It is the traitor who killed Aldran and Thendol approaching! Prepare to "
 "destroy him."
 msgstr ""
 
 #. [message]: id=Narian
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:117
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:113
 msgid ""
 "Meneldur! I bear a message from the King! If you surrender now, your life "
 "will be spared. The King is even willing to aid you in your quest to regain "
@@ -1392,20 +1397,20 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:121
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:117
 msgid ""
 "Hah! And what will you do with me and my kind, who have joined with Meneldur "
 "and are bound to him? Doubtlessly you would kill us."
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:125
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:121
 msgid ""
 "He is right. We can defeat these forces, and rid this area of their lordship."
 msgstr ""
 
 #. [message]: id=Handran
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:129
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:125
 msgid ""
 "Your ship has been captured by others of us. You do not know what awaits you "
 "further up the isle... I tell you, if you refuse this you are a dead man, "
@@ -1413,29 +1418,29 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:133
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:129
 msgid "Your threats do not scare me. Prepare for battle, men!"
 msgstr ""
 
 #. [message]: id=Narian
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:137
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:133
 msgid ""
 "Very well, you have chosen. Handran, send a scout to the leader and tell her "
 "Meneldur has refused our offer. She will be most displeased."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:147
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:143
 msgid "I wonder what that was all about..."
 msgstr ""
 
 #. [unit]: id=Conscript, type=Swordsman
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:156
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:152
 msgid "Conscript"
 msgstr ""
 
 #. [message]: id=Conscript
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:168
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:164
 msgid ""
 "Meneldur! It seems that our commanders and our best fighters have been "
 "killed. If you leave us now, we will probably die, since only they knew how "
@@ -1443,50 +1448,50 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:172
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:168
 msgid ""
 "What would you have me do? Give you navigators to help you? Why would I do "
 "that for an enemy?"
 msgstr ""
 
 #. [message]: id=Conscript
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:176
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:172
 msgid ""
 "Well, why don't you let us join you? There is nothing else for us to do."
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:180
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:176
 msgid "Wouldn't that make you a traitor?"
 msgstr ""
 
 #. [message]: id=Conscript
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:184
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:180
 msgid ""
 "No, since I don't think you are traitors, and my commander is dead. It is "
 "just joining another battalion."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:188
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:184
 msgid ""
 "Well, if he puts it that way, why should we refuse? We can always use fresh "
 "recruits."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:192
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:188
 msgid ""
 "Very well... now, we will move further down the peninsula to regain our ship."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:208
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:209
 msgid "Please have mercy, what had I done?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:230
+#: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:231
 msgid "Ahhrg, I surrender"
 msgstr ""
 
@@ -1585,54 +1590,54 @@ msgid "Sea Hawks"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:92
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:99
 msgid "I found a treasure! I count at least 500 gold pieces"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:114
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:121
 msgid ""
 "I see there are more undead! I wonder how many of these did not go all the "
 "way across with Jevyan?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:118
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:125
 msgid ""
 "I have seen several of these wandering undead where I come from. Haven't you?"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:122
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:129
 msgid ""
 "Mostly I travel south to the southern continent, not west like this. There "
 "are no undead there!"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:126
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:133
 msgid "I see..."
 msgstr ""
 
 #. [message]: id=Kar-Salazz
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:130
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:137
 msgid ""
 "Sssooo.... youu hazntt foughtt me oftenzz? Ahhh, gooodd. You will be eazyy "
 "to defeatzz!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:134
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:141
 msgid "Why did he speak like a lizard?"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:147
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:154
 msgid "What the...?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:151
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:158
 msgid "That must be why he spoke like that. He is partly a lizard!"
 msgstr ""
 
@@ -1820,7 +1825,7 @@ msgid "It seems that we have concorrents"
 msgstr ""
 
 #. [unit]: id=Raenna, type=Red Mage
-#: Saving_Elensefar/scenarios/i15_Alduin.cfg:458
+#: Saving_Elensefar/scenarios/i15_Alduin.cfg:411
 msgid "Raenna"
 msgstr ""
 
@@ -1845,117 +1850,178 @@ msgid "Naga Cholera"
 msgstr ""
 
 #. [side]: type=Saurian Flanker
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:45
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:60
 msgid "Saurian Pest"
 msgstr ""
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:69
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:99
 msgid "Defeat the Saurians"
 msgstr ""
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:79
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:109
 msgid "Defeat the Nagas"
 msgstr ""
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:89
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:119
 msgid "Defeat both enemy leaders"
 msgstr ""
 
 #. [message]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:124
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:154
 msgid "Thizss is our land zsaurian scum"
 msgstr ""
 
 #. [message]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:128
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:158
 msgid "Not in your sssweatest dreams. Naga fouls"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:132
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:162
 msgid "Oh Oh. We had shipwrecked directly into a lizard nest"
 msgstr ""
 
 #. [message]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:136
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:166
 msgid ""
 "You come in handy time zstramgers. Would you help us defeat that saurian "
 "scum?"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:140
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:170
 msgid "Why should we?"
 msgstr ""
 
 #. [message]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:144
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:174
 msgid "We know about an Invisibility Cape near, maybe that convince you?"
 msgstr ""
 
 #. [message]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:148
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:178
 msgid ""
 "Don't lissten to him! The naga had invaded our pacific land! help us expell "
 "them out!"
 msgstr ""
 
 #. [message]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:152
-msgid "We even deliever our most precious - the Stone of Dead"
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:182
+msgid ""
+"Long ago this were the swamp of a basilisk, as a gift we offer its eye wich "
+"is able to petrify!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:156
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:186
 msgid "Well, uhm"
 msgstr ""
 
 #. [option]: id=Meneldur
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:158
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:188
 msgid "You Saurians have our word, let us expell the nagas."
 msgstr ""
 
 #. [command]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:166
-msgid "$unit.name finds the Pearl of Ressurection. Should he pick it up?"
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:196
+msgid "$unit.name finds the Eye of Basilisk. Should he pick it up?"
+msgstr ""
+
+#. [command]
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:197
+msgid "eye of basilisk^Take it"
+msgstr ""
+
+#. [command]
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:198
+msgid "eye of basilisk^Leave it"
 msgstr ""
 
 #. [object]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:169
-msgid "Stone of Dead"
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:201
+msgid "Eye of the Basilisk"
 msgstr ""
 
 #. [object]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:172
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:204
 msgid ""
-"With this pearl his wielder is able to ressurect up to 3 fallen soldiers"
+"Despite the death of the basilisk the eye still has the power to petrify its "
+"targets"
+msgstr ""
+
+#. [effect]: type=cold
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:211
+msgid "eye of basilisk"
+msgstr ""
+
+#. [petrifies]: id=SE_petrifies
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:220
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:223
+msgid "petrifies"
+msgstr ""
+
+#. [petrifies]: id=SE_petrifies
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:222
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:225
+msgid ""
+"Petrify:\n"
+"This attack petrifies the target, turning it to stone. Units that have been "
+"petrified may not move or attack."
 msgstr ""
 
 #. [option]: id=Meneldur
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:195
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:257
 msgid "We dont believe your lies, saurians. Prepare to die"
 msgstr ""
 
 #. [command]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:203
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:265
 msgid "$unit.name finds the Cape of Invisibilty. Should he pick it up?"
 msgstr ""
 
+#. [command]
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:266
+msgid "invisibility cape^Take it"
+msgstr ""
+
+#. [command]
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:267
+msgid "invisibility cape^Leave it"
+msgstr ""
+
 #. [object]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:206
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:270
 msgid "Invisibility Cape"
 msgstr ""
 
 #. [object]
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:209
-msgid "This cape grants the wearer Nightstalk!"
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:273
+msgid "This cape grants the wearer Invisibility!"
+msgstr ""
+
+#. [hides]: id=invisibility
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:282
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:283
+msgid "invisibility"
+msgstr ""
+
+#. [hides]: id=invisibility
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:287
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:291
+msgid ""
+"Invisibility:\n"
+"This unit is invisible by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit, except if they have units next to it. Any "
+"enemy unit that first discovers this unit immediately loses all its "
+"remaining movement."
 msgstr ""
 
 #. [option]: id=Meneldur
-#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:234
+#: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:305
 msgid "We have no time for those childdish disputes."
 msgstr ""
 
@@ -1970,61 +2036,141 @@ msgid "Cave Hidders"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:65
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:66
 msgid "A Monster!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:91
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:92
 msgid "Explore the Cave"
 msgstr ""
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:95
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:96
 msgid "Capture 6 villages"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:139
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:141
 msgid ""
 "Long time ago this was a smugglers hole, a helthy one. Althought I feel that "
 "it is abandoned for years."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:143
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:145
 msgid ""
 "Why did they leave? It is to far away from normal wesnothian trade routes."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:147
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:149
 msgid "But not far away sufficient"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:151
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:153
 msgid "And there are rumors that obscure shadows had settled here"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:155
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:157
 msgid "How it be, let us see if we found some food, our is nearly gone"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:167
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:178
 msgid "I found some provision!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:171
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:182
 msgid "Capture at least 6 villages to restock your ship"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:183
+#: Saving_Elensefar/scenarios/i18_Cave_illien.cfg:195
 msgid "We now have $turnsleft| provisions"
+msgstr ""
+
+#. [scenario]: id=sea_voyage_19
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:6
+msgid "Illaryan, the Illusionist"
+msgstr ""
+
+#. [side]: id=Illaryan, type=Silver Mage
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:23
+msgid "Illaryan the Illusionist"
+msgstr ""
+
+#. [side]: id=Illaryan, type=Silver Mage
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:31
+msgid "Dusty Miracles"
+msgstr ""
+
+#. [message]: id=Illaryan
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:67
+msgid "Who comes there? Who invades my lands?"
+msgstr ""
+
+#. [message]: id=Meneldur
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:71
+msgid "Invades? We came in peace, and just want to restock our ship."
+msgstr ""
+
+#. [message]: id=Illaryan
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:75
+msgid "Out of my land!"
+msgstr ""
+
+#. [message]: id=Black the Red
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:79
+msgid "I think we had to fight if we want to restock our ship here."
+msgstr ""
+
+#. [message]: id=Meneldur
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:83
+msgid "Well, he doesn't give us other choice."
+msgstr ""
+
+#. [message]: id=Illaryan
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:87
+msgid "Crazy people! You want to fight? Defeat me first if you can!"
+msgstr ""
+
+#. [message]: id=Illaryan
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:98
+msgid "WOAARRR"
+msgstr ""
+
+#. [message]: id=Madru
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:102
+msgid "You dont scare me with those illussions!"
+msgstr ""
+
+#. [message]: id=Illaryan
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:112
+msgid "ROAARRR"
+msgstr ""
+
+#. [message]: id=Black the Red
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:116
+msgid "Men, dont be fooled by the appearances."
+msgstr ""
+
+#. [message]: id=Illaryan
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:126
+msgid "To battle!"
+msgstr ""
+
+#. [message]: id=Illaryan
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:246
+msgid "Come to me, come!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:278
+msgid "Begone, false illusion!"
 msgstr ""
 
 #. [scenario]: id=sea_voyage_1
@@ -2032,25 +2178,108 @@ msgstr ""
 msgid "The Swampland"
 msgstr ""
 
-#. [side]: id=Ak-Avanu, type=Necromancer
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:23
-msgid "Ak-Avanu"
+#. [message]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:341
+msgid "You win!"
 msgstr ""
 
-#. [side]: id=Ak-Avanu, type=Necromancer
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:34
+#. [message]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:343
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:359
+msgid ""
+"You: $side_1_units.length\n"
+"Othello: $side_2_units.length"
+msgstr ""
+
+#. [message]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:357
+msgid "You lost."
+msgstr ""
+
+#. [side]: id=Othello, type=Necromancer
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:410
+msgid "Othello"
+msgstr ""
+
+#. [side]: id=Othello, type=Necromancer
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:415
 msgid "Crazy Horse"
 msgstr ""
 
+#. [objectives]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:429
+msgid "Play a game of Reversi with Othello"
+msgstr ""
+
+#. [objective]: condition=win
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:431
+msgid "Capture more units than Othello does"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:435
+msgid "Othello finish with more units"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:440
+msgid "You lose <b>both</b> Madru and Black the Red"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:446
+msgid "You lose <b>either</b> Madru or Black the Red"
+msgstr ""
+
+#. [objectives]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:450
+msgid "<b>How to Play</b>"
+msgstr ""
+
+#. [note]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:452
+msgid ""
+"A move is valid if Othello's units will be between two of yours. To place a "
+"unit on the board:"
+msgstr ""
+
+#. [note]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:455
+msgid "(1) Move Meneldur to a ruined castle at the bottom to select the column"
+msgstr ""
+
+#. [note]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:458
+msgid ""
+"(2) Move Meneldur again to a ruined castle now at the left to select the row"
+msgstr ""
+
+#. [note]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:461
+msgid "(3) If the move is valid an unit will be recalled at the given place"
+msgstr ""
+
+#. [note]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:464
+msgid "(4) And any enemy units standing between two of yours will swap side."
+msgstr ""
+
+#. [note]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:467
+msgid ""
+"(5) The game continues until the board is full, or neither leader could do a "
+"move."
+msgstr ""
+
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:80
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:511
 msgid ""
 "What is this, a mage walks clad in black? Explain yourself! Are you of the "
 "red mages, or the white?"
 msgstr ""
 
-#. [message]: id=Ak-Avanu
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:84
+#. [message]: id=Othello
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:515
 msgid ""
 "What? Do you mean to tell me that the great lich Jevyan does not reign on "
 "that continent, or that his mages no longer wear the robes of the "
@@ -2058,48 +2287,71 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:88
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:523
 msgid ""
 "What? Why do you speak of those old tales as if they were real? And I "
 "suppose you think you are a real necromancer too."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:92
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:527
 msgid ""
 "Why do you say he's not a necromancer? I've seen them before, haven't you?"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:96
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:531
 msgid "Are you saying undead exist?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:100
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:535
 msgid ""
 "Yes. And this guy looks real enough. I think we should treat him like an "
 "actual enemy."
 msgstr ""
 
-#. [message]: id=Ak-Avanu
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:104
+#. [message]: id=Othello
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:539
 msgid "Yes, you should! Now, prepare to die!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:108
-msgid "Whatever. We will see if he actually can raise anything."
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:543
+msgid ""
+"Whatever. We will see if he actually can raise anything, and if we come out "
+"of here."
 msgstr ""
 
-#. [message]: id=Ak-Avanu
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:121
-msgid "Ha! See, I can resurrect the dead! Now fear me!"
+#. [message]: id=Othello
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:562
+msgid ""
+"Impressive. You were able to storm my game. May I join you on your quest?"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:125
-msgid "Amazing... so the stories are true!"
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:566
+msgid "Err"
+msgstr ""
+
+#. [message]: id=Black the Red
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:570
+msgid "Sure, we need any willing hand"
+msgstr ""
+
+#. [message]: id=Meneldur
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:576
+msgid "That was a weird battle..."
+msgstr ""
+
+#. [message]: id=Madru
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:580
+msgid "... in the magic castle."
+msgstr ""
+
+#. [message]: id=Black the Red
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:584
+msgid "Look, we have gain more soldiers for our quest. Wy did you complain?"
 msgstr ""
 
 #. [scenario]: id=sea_voyage_2
@@ -2431,101 +2683,6 @@ msgstr ""
 msgid "Its a deal."
 msgstr ""
 
-#. [scenario]: id=sea_voyage_8
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:6
-msgid "The Frozen Lands"
-msgstr ""
-
-#. [side]: id=Panenael, type=Dwarvish Lord
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:32
-msgid "Panenael"
-msgstr ""
-
-#. [side]: id=Panenael, type=Dwarvish Lord
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:44
-msgid "Frosty Dwarves"
-msgstr ""
-
-#. [unit]: id=Padrun, type=Dwarvish Thunderguard
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:96
-msgid "Padrun"
-msgstr ""
-
-#. [message]: id=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:108
-msgid "Finally, a ship! You, in there, we wish to talk with you!"
-msgstr ""
-
-#. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:112
-msgid ""
-"What is it that you want, Dwarf? You know that elves are not usually very "
-"friendly with your kind."
-msgstr ""
-
-#. [message]: id=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:116
-msgid ""
-"I know this, but you are not only elves, there are some men among you, who "
-"usually help in return for gold. I need to ask your aid. We are in a "
-"desperate situation - we will all die you do not help us!"
-msgstr ""
-
-#. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:120
-msgid "Why? What's going on here?"
-msgstr ""
-
-#. [message]: id=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:124
-msgid ""
-"There is a lord ruling here, a cruel lord, and we decided to resist him, to "
-"so as not to be enslaved. But then he called in reinforcements from the "
-"north, and he is now too strong. The battle is no longer equal, and he has "
-"decided to try to destroy us! We will give you gold if you help us."
-msgstr ""
-
-#. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:128
-msgid ""
-"Very well, we will try to help you - so give us command of your troops, that "
-"we may use them more effectively."
-msgstr ""
-
-#. [message]: id=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:132
-msgid ""
-"Certainly! Also, we will give you what little gold we have, if it will help "
-"you..."
-msgstr ""
-
-#. [message]: type=Yeti
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:150
-msgid "ROAAARRRR"
-msgstr ""
-
-#. [message]: speaker=unit
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:154
-msgid "Wow"
-msgstr ""
-
-#. [message]
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:158
-msgid "Yks"
-msgstr ""
-
-#. [message]: id=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:167
-msgid ""
-"Thank you for helping us regain our land! My men that were fighting with you "
-"will join you now, although I will be staying here."
-msgstr ""
-
-#. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:174
-msgid "Alright, men, lets go back to the ship now."
-msgstr ""
-
 #. [side]: id=Kalandur, type=Elvish Champion
 #. [scenario]: id=sea_voyage_6
 #: Saving_Elensefar/scenarios/i6_Traitors.cfg:6
@@ -2539,19 +2696,19 @@ msgid "Kalandur"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i6_Traitors.cfg:108
+#: Saving_Elensefar/scenarios/i6_Traitors.cfg:109
 msgid ""
 "What? So, if it isn't my old friend Kalandur... are there any more "
 "Wesnothians on this island, or have they given up trying to stop us?"
 msgstr ""
 
 #. [message]: id=Kalandur
-#: Saving_Elensefar/scenarios/i6_Traitors.cfg:112
+#: Saving_Elensefar/scenarios/i6_Traitors.cfg:113
 msgid "There are none here, but trust me, they remain against you."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i6_Traitors.cfg:116
+#: Saving_Elensefar/scenarios/i6_Traitors.cfg:117
 msgid ""
 "So say you. Well, Black, we'd better go. Its best not to kill more elves; "
 "even if we defeat them, it will just make the rest even angrier at us."
@@ -2665,36 +2822,36 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=sea_voyage_7
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:5
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:6
 msgid "A Deadly Alliance"
 msgstr ""
 
 #. [side]: id=Alandur, type=Elvish Marshal
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:22
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:23
 msgid "Alandur"
 msgstr ""
 
 #. [side]: id=Alandur, type=Elvish Marshal
 #. [side]: id=Kra-Drano, type=Orcish Warlord
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:39
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:57
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:40
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:59
 msgid "Mad Alliance"
 msgstr ""
 
 #. [side]: id=Kra-Drano, type=Orcish Warlord
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:46
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:48
 msgid "Kra-Drano"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:106
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:109
 msgid ""
 "Alandur! I suppose you want to battle? Very well, but there are orcs here "
 "also. How about we kill them first, then battle?"
 msgstr ""
 
 #. [message]: id=Alandur
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:110
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:113
 msgid ""
 "Well, if the orcs had not occupied Elensefar when they took it, but rather "
 "destroyed it, we would. But, those on the mainland have proved extremely "
@@ -2702,14 +2859,14 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:114
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:117
 msgid ""
 "Why does that matter? All that's important is that they're going to kill "
 "you, too!"
 msgstr ""
 
 #. [message]: id=Alandur
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:118
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:121
 msgid ""
 "No, we're currently concluding a peace treaty with the orcs. And it would be "
 "bad form to attack the relatives of those who you are trying to make a "
@@ -2717,26 +2874,26 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:122
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:125
 msgid "But these orcs are probably from a completely different tribe!"
 msgstr ""
 
 #. [message]: id=Alandur
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:126
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:129
 msgid ""
 "We can't take that chance! These orcs claim to be allies with the ones in "
 "Elensefar, so we MUST ally with them."
 msgstr ""
 
 #. [message]: id=Kra-Drano
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:130
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:133
 msgid ""
 "Uh, yeah, of course... we be da same tribe... uh... Prepare to die, stupid "
 "dog-man!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:140
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:143
 msgid ""
 "So the elves, too, have given up trying to stop the orcs... it seems we are "
 "on our own against them. And these elves, since we are their enemies anyway, "
@@ -2744,21 +2901,21 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:146
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:149
 msgid ""
 "The elves are willing to surrender Elensefar to orcs, just because they "
 "began to lose a few battles? We really need to get back there, soon."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:152
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:155
 msgid ""
 "If we can just get to the western isle I spoke of, we may be able to defeat "
 "this alliance."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:167
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:170
 msgid ""
 "With Alandur dead, I think we have defeated all of the Elves who sail the "
 "sea. We probably won't see them until we reach Elensefar... we will have "
@@ -2766,8 +2923,103 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:173
+#: Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:176
 msgid "Well, we won, but things might go badly for us later..."
+msgstr ""
+
+#. [scenario]: id=sea_voyage_8
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:6
+msgid "The Frozen Lands"
+msgstr ""
+
+#. [side]: id=Panenael, type=Dwarvish Lord
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:32
+msgid "Panenael"
+msgstr ""
+
+#. [side]: id=Panenael, type=Dwarvish Lord
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:44
+msgid "Frosty Dwarves"
+msgstr ""
+
+#. [unit]: id=Padrun, type=Dwarvish Thunderguard
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:96
+msgid "Padrun"
+msgstr ""
+
+#. [message]: id=Padrun
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:108
+msgid "Finally, a ship! You, in there, we wish to talk with you!"
+msgstr ""
+
+#. [message]: id=Meneldur
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:112
+msgid ""
+"What is it that you want, Dwarf? You know that elves are not usually very "
+"friendly with your kind."
+msgstr ""
+
+#. [message]: id=Padrun
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:116
+msgid ""
+"I know this, but you are not only elves, there are some men among you, who "
+"usually help in return for gold. I need to ask your aid. We are in a "
+"desperate situation - we will all die you do not help us!"
+msgstr ""
+
+#. [message]: id=Madru
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:120
+msgid "Why? What's going on here?"
+msgstr ""
+
+#. [message]: id=Padrun
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:124
+msgid ""
+"There is a lord ruling here, a cruel lord, and we decided to resist him, to "
+"so as not to be enslaved. But then he called in reinforcements from the "
+"north, and he is now too strong. The battle is no longer equal, and he has "
+"decided to try to destroy us! We will give you gold if you help us."
+msgstr ""
+
+#. [message]: id=Black the Red
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:128
+msgid ""
+"Very well, we will try to help you - so give us command of your troops, that "
+"we may use them more effectively."
+msgstr ""
+
+#. [message]: id=Padrun
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:132
+msgid ""
+"Certainly! Also, we will give you what little gold we have, if it will help "
+"you..."
+msgstr ""
+
+#. [message]: type=Yeti
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:150
+msgid "ROAAARRRR"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:154
+msgid "Wow"
+msgstr ""
+
+#. [message]
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:158
+msgid "Yks"
+msgstr ""
+
+#. [message]: id=Padrun
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:167
+msgid ""
+"Thank you for helping us regain our land! My men that were fighting with you "
+"will join you now, although I will be staying here."
+msgstr ""
+
+#. [message]: id=Madru
+#: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:174
+msgid "Alright, men, lets go back to the ship now."
 msgstr ""
 
 #. [scenario]: id=sea_voyage_9
@@ -2813,79 +3065,84 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=sea_voyage_{DIRECT}
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:38
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:130
 msgid "Sea Battle"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:228
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:300
 msgid ""
 "They had 100 gold stored in their ship, and enough provisions to restock our "
 "ship."
 msgstr ""
 
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:5
+msgid "The High Seas"
+msgstr ""
+
 #. [message]: id=The_Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:102
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:134
 msgid ""
 "This island has no more enemies on it, but we can still reprovision here. "
 "That will still take time, though."
 msgstr ""
 
 #. [message]: id=The_Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:113
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:145
 msgid "We have unfinished business to attend to."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:129
-msgid "The High Seas"
-msgstr ""
-
 #. [objectives]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:161
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:188
 msgid "Scenario Rules:"
 msgstr ""
 
 #. [objective]: description=<span color='white'>, condition=win
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:163
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:190
 msgid "Land in a harbor to reprovision."
 msgstr ""
 
 #. [objective]: description=<span color='white'>, condition=win
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:167
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:194
 msgid ""
 "The Wesnothian ships are chasing you; if they attack you they will attempt "
 "to board the ship."
 msgstr ""
 
 #. [objective]: description=<span color='white'>, condition=win
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:171
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:198
 msgid ""
 "Each of their ships has enough provisions to completely restock your ship."
 msgstr ""
 
 #. [objective]: description=<span color='white'>, condition=win
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:175
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:202
 msgid ""
 "Your long-term objective is to reach the lands in the West where Black the "
 "Red says there are allies, and have them join you."
 msgstr ""
 
 #. [objective]: description=<span color='white'>, condition=win
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:179
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:206
 msgid "Until then you cannot return to Elensefar."
 msgstr ""
 
 #. [objective]: description=<span color='white'>, condition=lose
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:183
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:210
 msgid "Be at sea for 6 weeks (6 turns) without reprovisioning"
 msgstr ""
 
 #. [objective]: description=<span color='white'>, condition=lose
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:187
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:210
+msgid "(current $turnsleft provisions remaining)"
+msgstr ""
+
+#. [objective]: description=<span color='white'>, condition=lose
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:214
 msgid "Take more than 30 weeks to reach the western lands"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:376
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:435
 msgid ""
 "We have left Elensefar in the hands of the orcs. If we do not return soon, "
 "it will be of no use to return at all. We have at most 30 weeks to get to "
@@ -2893,112 +3150,117 @@ msgid ""
 "spoken of. That will leave us with 5 weeks to get back."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:385
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:444
 msgid ""
 "Also, our ship cannot hold provisions for more than 6 weeks at a time, so we "
 "must either land on an island or capture an enemy ship ever 6 weeks."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:422
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:481
 msgid ""
 "We only have enough provisions for $turnsleft weeks; we must reach the "
 "Western Lands in $gameleft weeks."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:437
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:496
 msgid ""
 "Hurry, we are down to our last provisions! If we don't refill them within a "
 "week, we will all starve!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:446
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:505
 msgid "We have ran out of provisions.... *urgh*"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:465
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:524
 msgid "We have failed reaching the Westlands in time."
 msgstr ""
 
-#: Saving_Elensefar/utils/utils.cfg:218
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:589
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:598
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:607
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:625
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:634
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:652
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:679
+#: Saving_Elensefar/utils/utils.cfg:214
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:648
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:657
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:666
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:684
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:693
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:711
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:738
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:774
 msgid "Meneldur"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:591
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:650
 msgid ""
 "There does not seem to be anyone living on this island... except, it seems, "
 "that black-cowled man on the far side..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:600
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:659
 msgid ""
 "Last time I was here there was a trading colony, but it seems to be gone. "
 "Their old stockades should still be here, anyway."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:609
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:668
 msgid "I think something is in the water..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:618
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:677
 msgid ""
 "Legend says Haldric landed here on his journey over, and that he fought "
 "something. Lets hope we don't have to fight whatever it was..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:627
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:686
 msgid "This island looks vaguely elvish."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:636
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:695
 msgid "Does anything live in this frozen wasteland?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:645
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:704
 msgid ""
 "I see signs of a Wesnothian outpost. Odd they would come so far south..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:654
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:713
 msgid ""
 "Nagas were about a hundred years ago, in Haldric's time! I wonder if any "
 "remain..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:663
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:722
 msgid ""
 "This is old Clearwater Port! It was sacked by orcs long ago, I doubt there "
 "are any humans left."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:672
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:731
 msgid ""
 "This is the land I was talking about. Land here, and we will get the "
 "warriors we need."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:681
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:740
 msgid ""
 "The Great Academy of Alduin is settled on this isle! Let us hold here for a "
 "day or two."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:690
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:749
 msgid "This island looks desert."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:699
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:758
 msgid "Carefull with those riffs, or we will shipwreck"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:708
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:767
 msgid "This is just an abandoned smugglers hole."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:776
+msgid "There is a great tower on the isle. Which kind of mage live here?"
 msgstr ""
 
 #. [unit_type]: id=Black Galleon, race=mechanical
@@ -3149,7 +3411,7 @@ msgid "Sailor"
 msgstr ""
 
 #. [unit_type]: id=Sailor, race=human
-#: Saving_Elensefar/units/Sailor.cfg:39
+#: Saving_Elensefar/units/Sailor.cfg:34
 msgid ""
 "Sailors, who began traversing the ocean when they were young, are almost as "
 "much at home in water as on land. In order to make all of the swift "
@@ -3159,9 +3421,20 @@ msgid ""
 "their shoulder when not using it."
 msgstr ""
 
-#. [attack]: type=blade
-#: Saving_Elensefar/units/Sailor.cfg:59
-msgid "saber"
+#. [unit_type]: id=Shipsmaster, race=human
+#: Saving_Elensefar/units/Shipmaster.cfg:5
+msgid "Shipsmaster"
+msgstr ""
+
+#. [unit_type]: id=Shipsmaster, race=human
+#: Saving_Elensefar/units/Shipmaster.cfg:32
+msgid ""
+"The master of whatever ship they are aboard, the Shipsmaster answers only to "
+"the captain of the vessel. He does not do the manual labor that most crewmen "
+"do, leaving that to those working beneath him, but still refuses to wear "
+"armor or wield heavy weapons, as doing so would be only an invitation for "
+"the sea to drown him. His weapon is his rapier, which he wields with "
+"ferocious skill."
 msgstr ""
 
 #. [unit_type]: id=War Galleon, race=mechanical
@@ -3177,167 +3450,43 @@ msgid ""
 "- and destroy them. "
 msgstr ""
 
-#: Saving_Elensefar/utils/abilities.cfg:8
-msgid ""
-" This unit is capable of distracting opponents, allowing allied units to "
-"trespass their Zones of Control and move unhindered around them."
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:12
-msgid ""
-" The presence of this unit inspires own units next to it to deal more damage "
-"in combat, though this only applies to units of lower or equal level."
-msgstr ""
-
-#. [skirmisher]: id=distract
-#: Saving_Elensefar/utils/abilities.cfg:18
-msgid "distract"
-msgstr ""
-
-#. [skirmisher]: id=distract
-#: Saving_Elensefar/utils/abilities.cfg:20
-msgid ""
-"Distract:\n"
-"This unit negates enemy Zones of Control around itself for allied units (but "
-"not for itself)."
-msgstr ""
-
-#. [leadership]: id=inspire_0
-#: Saving_Elensefar/utils/abilities.cfg:36
-#: Saving_Elensefar/utils/abilities.cfg:96
-msgid "inspire"
-msgstr ""
-
-#. [leadership]: id=inspire_0
-#: Saving_Elensefar/utils/abilities.cfg:38
-msgid ""
-"Inspire:\n"
-"This unit can inspire own L0, L1, L2, or L3 units that are next to it, "
-"making them fight better. Adjacent own units of L3 will do more 25% more "
-"damage; L2 units will do 50% more, L1 will do 75% more, and L0 units will do "
-"100% more."
-msgstr ""
-
-#. [leadership]: id=inspire_0
-#: Saving_Elensefar/utils/abilities.cfg:98
-msgid ""
-"Inspire:\n"
-"This unit can inspire own L0, L1, or L2 units that are next to it, making "
-"them fight better. Adjacent own units of L2 will do more 25% more damage; L1 "
-"units will do 50% more, and L0 will do 75% more."
-msgstr ""
-
-#. [blitz]: id=blitz
-#: Saving_Elensefar/utils/abilities.cfg:140
-msgid "blitz"
-msgstr ""
-
-#. [blitz]: id=blitz
-#: Saving_Elensefar/utils/abilities.cfg:142
-msgid ""
-"Blitz:\n"
-"Allies that start their turn adjacent to this unit are granted Skirmisher "
-"for that turn."
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:224
-msgid "battle tutor"
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:226
-msgid ""
-"Battle Tutor:\n"
-"This unit's ability to teach battle skills gives each adjacent allied unit a "
-"small boost to experience earned in battle."
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:261
-msgid "+ $second_unit.level|"
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:333
-msgid "+ $hits|"
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:347
-msgid "summon"
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:349
-msgid ""
-"Summon:\n"
-"This unit knows the powers of life and dead, being able to recall slained "
-"soldiers."
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:357
-msgid "Ressurect"
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:377
-msgid ""
-"Name:  $units_slain[$i].name\n"
-"Type: $units_slain[$i].type   lvl $units_slain[$i].level   $units_slain[$i]."
-"max_moves MP\n"
-"$units_slain[$i].max_hitpoints HP  $units_slain[$i].experience|/$units_slain"
-"[$i].max_experience XP\n"
-"$units_slain[$i].trait[0].$units_slain[$i].gender|_name  $units_slain[$i]."
-"trait[1].$units_slain[$i].gender|_name"
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:379
-msgid "Ressurect this unit"
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:407
-msgid "next unit"
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:419
-msgid "previous unit"
-msgstr ""
-
-#: Saving_Elensefar/utils/abilities.cfg:431
-msgid "cancel"
-msgstr ""
-
 #. [message]: id=Meneldur
-#: Saving_Elensefar/utils/deaths.cfg:13
+#: Saving_Elensefar/utils/deaths.cfg:15
 msgid "Ahnnhnnhn..."
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/utils/deaths.cfg:27
+#: Saving_Elensefar/utils/deaths.cfg:31
 msgid "Ughnnnhnnhn..."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/utils/deaths.cfg:41
+#: Saving_Elensefar/utils/deaths.cfg:47
 msgid "Ughnhnhnhhn..."
 msgstr ""
 
 #. [message]: id=Psison
-#: Saving_Elensefar/utils/deaths.cfg:59
+#: Saving_Elensefar/utils/deaths.cfg:65
 msgid "Ahnanzz..."
 msgstr ""
 
 #. [message]: id=Padrun
-#: Saving_Elensefar/utils/deaths.cfg:76
+#: Saving_Elensefar/utils/deaths.cfg:82
 msgid "Continue... the battle... for me..."
 msgstr ""
 
 #. [message]: id=Padrun
-#: Saving_Elensefar/utils/deaths.cfg:80
+#: Saving_Elensefar/utils/deaths.cfg:86
 msgid "Unghnhhghhnghh."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saving_Elensefar/utils/deaths.cfg:97
+#: Saving_Elensefar/utils/deaths.cfg:103
 msgid "Eloh waits for me"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saving_Elensefar/utils/deaths.cfg:114
+#: Saving_Elensefar/utils/deaths.cfg:120
 msgid "I see the light..."
 msgstr ""
 
@@ -3377,20 +3526,20 @@ msgid "Fight on!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/utils/utils.cfg:195
+#: Saving_Elensefar/utils/utils.cfg:192
 msgid "Remember we can retreat at any time, just move your leader to the ship."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/utils/utils.cfg:199
+#: Saving_Elensefar/utils/utils.cfg:196
 msgid "But then we haven't time to refill our ship..."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/utils/utils.cfg:203
+#: Saving_Elensefar/utils/utils.cfg:200
 msgid "I hope it would never be needed."
 msgstr ""
 
-#: Saving_Elensefar/utils/utils.cfg:221
+#: Saving_Elensefar/utils/utils.cfg:217
 msgid "Elensefar's Loyalists"
 msgstr ""
