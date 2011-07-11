@@ -108,6 +108,10 @@ v1.4.7
 - balancing
 
 ***************
+v1.4.8
+- removed pango in the credits.cfg
+- update german translation
+- disabled 'saurian trap'
 
 # TODO
 - alduin, caves and saurian trap need story
