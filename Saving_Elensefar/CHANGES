@@ -119,6 +119,13 @@ v1.4.9
  - enabled 'saurian trap'
  - various tweaks
 
+v1.4.10
+ - fixed fire island not triggering victory
+
+v1.4.2
+ - added french translation
+ - added czech translation
+
 # TODO
 - alduin, caves and saurian trap need story
 - dialogue redo on 'The Swampland' and 'Illaryan..'
