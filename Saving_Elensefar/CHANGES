@@ -126,6 +126,11 @@ v1.4.2
  - added french translation
  - added czech translation
 
+v1.4.3
+ - changed ai turn events to side turn
+ - removed persistent ai sides
+ - added a lot of death messages
+
 # TODO
 - alduin, caves and saurian trap need story
 - dialogue redo on 'The Swampland' and 'Illaryan..'
