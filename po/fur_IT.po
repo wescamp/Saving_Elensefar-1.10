@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saving_Elensefar-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-14 07:14-0500\n"
+"POT-Creation-Date: 2013-05-21 22:58-0400\n"
 "PO-Revision-Date: 2012-02-26 17:23+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -3614,41 +3614,41 @@ msgid ""
 "for that turn."
 msgstr ""
 
-#: Saving_Elensefar/utils/abilities.cfg:120
+#: Saving_Elensefar/utils/abilities.cfg:122
 msgid "battle tutor"
 msgstr ""
 
-#: Saving_Elensefar/utils/abilities.cfg:121
+#: Saving_Elensefar/utils/abilities.cfg:123
 msgid ""
 "Battle Tutor:\n"
 "This unit's ability to teach battle skills gives each adjacent allied unit a "
 "small boost to experience earned in battle."
 msgstr ""
 
-#: Saving_Elensefar/utils/abilities.cfg:171
-msgid "+ $second_unit.level| XP"
+#: Saving_Elensefar/utils/abilities.cfg:169
+msgid "$second_unit.level XP"
 msgstr ""
 
-#: Saving_Elensefar/utils/abilities.cfg:189
+#: Saving_Elensefar/utils/abilities.cfg:181
 msgid "Battle Tutor"
 msgstr ""
 
-#: Saving_Elensefar/utils/abilities.cfg:190
+#: Saving_Elensefar/utils/abilities.cfg:182
 msgid ""
 "Battle Tutor:\n"
 "This unit's ability to teach battle skills gives each adjacent allied unit a "
 "small boost to his experience earned in battle."
 msgstr ""
 
-#: Saving_Elensefar/utils/abilities.cfg:258
-msgid "+ $hits| XP"
+#: Saving_Elensefar/utils/abilities.cfg:248
+msgid "$hits XP"
 msgstr ""
 
-#: Saving_Elensefar/utils/abilities.cfg:401
+#: Saving_Elensefar/utils/abilities.cfg:394
 msgid "charm"
 msgstr ""
 
-#: Saving_Elensefar/utils/abilities.cfg:402
+#: Saving_Elensefar/utils/abilities.cfg:395
 msgid ""
 "Charm:\n"
 "This unit charms its opponents, whenever it hits on attack the defender "
