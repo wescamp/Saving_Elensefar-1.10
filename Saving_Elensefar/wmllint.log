@@ -1,0 +1,228 @@
+wmllint: converting /home/trewe/src/umc-campaigns/Saving_Elensefar/_info.cfg
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/credits.cfg", line 7: text needs translation mark
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/credits.cfg", line 15: text needs translation mark
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/credits.cfg", line 41: text needs translation mark
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/credits.cfg", line 87: text needs translation mark
+wmllint: converting /home/trewe/src/umc-campaigns/Saving_Elensefar/credits.cfg
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg", line 110: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg", line 162: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg", line 181: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg", line 200: side number 4 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg", line 135: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg", line 256: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg", line 279: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg", line 321: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg", line 19: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg", line 23: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg", line 76: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 20: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 23: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 66: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 93: side number 4 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 189: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 201: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 213: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 237: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 322: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 334: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 378: unknown 'Othello' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg", line 435: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 50: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 69: grouping outside [ai] scope
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 53: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 97: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 120: side number 4 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 200: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 206: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 226: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 232: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 252: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 258: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 279: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 293: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 367: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 374: unknown 'Drake' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 393: unknown 'Thamen' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 411: unknown 'Othello' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 429: unknown 'Raenna' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 825: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 835: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 843: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 858: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 868: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 876: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 895: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 905: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 913: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 944: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 955: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 1127: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 1135: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg", line 1322: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg", line 25: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg", line 33: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg", line 82: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg", line 128: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg", line 141: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg", line 149: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg", line 159: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg", line 167: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg", line 183: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg", line 191: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f3-Epilogue.cfg", line 25: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f3-Epilogue.cfg", line 139: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f3-Epilogue.cfg", line 167: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f3-Epilogue.cfg", line 179: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f3-Epilogue.cfg", line 187: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/f3-Epilogue.cfg", line 199: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg", line 17: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg", line 37: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg", line 135: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg", line 186: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg", line 206: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg", line 26: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg", line 30: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg", line 103: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg", line 139: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg", line 153: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg", line 161: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg", line 188: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg", line 194: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg", line 17: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg", line 142: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg", line 146: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg", line 150: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg", line 154: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg", line 162: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg", line 179: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg", line 183: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg", line 18: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg", line 53: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg", line 71: side number 4 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg", line 171: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg", line 179: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg", line 204: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg", line 210: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg", line 240: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i15_Alduin.cfg", line 21: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i15_Alduin.cfg", line 24: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i15_Alduin.cfg", line 108: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i15_Alduin.cfg", line 112: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i15_Alduin.cfg", line 116: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i15_Alduin.cfg", line 165: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i15_Alduin.cfg", line 169: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i16_Goblins.cfg", line 17: side number 2 is out of sequence
+/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg, line 149: {PICKUPPABLE_ITEM invisibility_cape 21 39 (side,upkeep,canrecruit=1,full,no) items/cloak-green.png -> {PICKUPPABLE_ITEM invisibility_cape 21 39 (side,upkeep,canrecruit=yes,full,no) items/cloak-green.png
+/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg, line 204: {PICKUPPABLE_ITEM stone_death 14 11 (side,upkeep,canrecruit=1,full,yes) items/ball-magenta.png -> {PICKUPPABLE_ITEM stone_death 14 11 (side,upkeep,canrecruit=yes,full,yes) items/ball-magenta.png
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg", line 18: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg", line 49: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg", line 105: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg", line 113: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg", line 133: unknown 'Meneldur' referred to by id
+wmllint: converting /home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg", line 20: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg", line 23: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg", line 32: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg", line 147: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg", line 151: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg", line 155: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg", line 159: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg", line 163: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg", line 205: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg", line 194: inserting "image=wesnoth-icon.png"
+wmllint: converting /home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i18_Cave_illien.cfg
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg", line 34: village_value outside [ai] scope
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg", line 18: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg", line 82: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg", line 90: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg", line 94: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg", line 113: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg", line 127: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 382: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 386: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 285: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 289: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 297: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 302: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 562: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 572: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 609: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 311: nonstandard word-wrap style within message
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i1_The_Swampland.cfg", line 335: nonstandard word-wrap style within message
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg", line 17: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg", line 84: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg", line 95: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i3-1_Theft.cfg", line 30: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i3-1_Theft.cfg", line 33: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i3-1_Theft.cfg", line 105: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i3-1_Theft.cfg", line 128: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i3-1_Theft.cfg", line 165: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i3-1_Theft.cfg", line 252: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg", line 18: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg", line 21: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg", line 47: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg", line 106: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg", line 134: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 20: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 23: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 141: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 173: side number 4 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 269: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 273: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 297: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 301: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 305: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 309: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i5_Fire_Island.cfg", line 465: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 18: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 121: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 129: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 135: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 147: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 158: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 166: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 179: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 192: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 223: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i6_Traitors.cfg", line 229: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg", line 18: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg", line 36: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg", line 118: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg", line 134: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg", line 155: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg", line 161: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg", line 182: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg", line 188: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 27: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 31: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 56: side number 3 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 113: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 118: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 123: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 129: unknown 'Raenna' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 133: unknown 'Raenna' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 163: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 171: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 179: unknown 'Black the Red' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 228: unknown 'Madru' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg", line 234: unknown 'Raenna' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg", line 18: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg", line 98: unknown 'Meneldur' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/r_Sea_Battle.cfg", line 19: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/r_Sea_Battle.cfg", line 22: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/r_Sea_Battle.cfg", line 38: recruitment_pattern outside [ai]
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/r_The_High_Seas.cfg", line 169: [side] without type attribute
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/r_The_High_Seas.cfg", line 172: side number 2 is out of sequence
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/r_The_High_Seas.cfg", line 35: unknown 'The_Explorer' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/r_The_High_Seas.cfg", line 131: unknown 'The_Explorer' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/r_The_High_Seas.cfg", line 142: unknown 'The_Explorer' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/scenarios/r_The_High_Seas.cfg", line 266: unknown 'swampland' referred to by id
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/units/Elvish_Navigator.cfg", line 3: unit Elvish Navigator has superfluous {SPECIAL_NOTES}
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/units/Sailor.cfg", line 3: unit Sailor has superfluous {SPECIAL_NOTES}
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/units/Shipmaster.cfg", line 3: unit Shipsmaster has superfluous {SPECIAL_NOTES}
+/home/trewe/src/umc-campaigns/Saving_Elensefar/utils/abilities.cfg, line 60: duration=level -> duration=scenario
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/utils/abilities.cfg", line 401: closer [/abilities] with tag stack empty.
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/utils/abilities.cfg", line 490: tag stack nonempty ([('abilities', {})]) at end of file.
+wmllint: converting /home/trewe/src/umc-campaigns/Saving_Elensefar/utils/abilities.cfg
+"/home/trewe/Games/wesnoth/1.11/data/core/about.cfg", line 2589: space in email name
+wmllint: converting /home/trewe/Games/wesnoth/1.11/data/core/editor/time-of-day.cfg

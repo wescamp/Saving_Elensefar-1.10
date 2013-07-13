@@ -1,0 +1,1407 @@
+# Wmlscope reporting on Mon Jun 10 22:39:45 2013
+# Invocation: ./wmlscope --crossreference --refcount 0 --force-used terrain/ /home/trewe/src/umc-campaigns/Saving_Elensefar /home/trewe/Games/wesnoth/1.11/data/core /home/trewe/Games/wesnoth/1.11/data/multiplayer /home/trewe/Games/wesnoth/1.11/data/themes /home/trewe/Games/wesnoth/1.11/data/campaigns/An_Orcish_Incursion /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs /home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness /home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion /home/trewe/Games/wesnoth/1.11/data/campaigns/Heir_To_The_Throne /home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty /home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth /home/trewe/Games/wesnoth/1.11/data/campaigns/Sceptre_of_Fire /home/trewe/Games/wesnoth/1.11/data/campaigns/Son_Of_The_Black_Eye /home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan /home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth /home/trewe/Games/wesnoth/1.11/data/campaigns/The_South_Guard /home/trewe/Games/wesnoth/1.11/data/campaigns/Two_Brothers /home/trewe/Games/wesnoth/1.11/data/campaigns/Under_the_Burning_Suns /home/trewe/Games/wesnoth/1.11/data/campaigns/tutorial
+# Working directory: /home/trewe/Games/wesnoth/1.11/data/tools
+#Cross-reference time: 272 seconds
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 432: local macro AFTER_QUEST_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 299: local macro AFTER_QUEST_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 316: local macro AFTER_QUEST_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 337: local macro AFTER_QUEST_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 366: local macro AFTER_QUEST_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 408: local macro AFTER_QUEST_STAGE5_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 475: global macro AI_ASPECT_LEADER_GOAL_MOVE_TO_AND_STAY_THERE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 493: global macro AI_ASPECT_LEADER_GOAL_RISKY_MOVE_TO_AND_STAY_THERE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/scenario-utils.cfg", line 33: global macro AI_CANT_PLAY is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_candidate_actions.cfg", line 153: global macro AI_CA_PASSIVE_LEADER_SHARES_KEEP is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_candidate_actions.cfg", line 46: global macro AI_CA_PASSIVE_LEADER_SHARES_KEEP_SCORE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_controller.cfg", line 972: global macro AI_CONTROLLER_FUTURE_STRINGS is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 372: global macro AI_NEW_SYNTAX is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 266: global macro AI_SIMPLE_DAY_ASPECT_VALUE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 423: global macro AI_SIMPLE_FORMULA_AI_EXPERIMENTAL_RECRUITMENT is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 260: global macro AI_SIMPLE_NIGHT_ASPECT_VALUE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 480: local macro ALLIANCE_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 526: local macro ALLIANCE_STAGE4 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 577: local macro ALLIANCE_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg", line 407: global macro ALLIED_LICH is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/image-utils.cfg", line 246: global macro ANIMATED_MAUSOLEUM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/builder.cfg", line 6: global macro ANIMATION_01 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/builder.cfg", line 9: global macro ANIMATION_03 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/builder.cfg", line 12: global macro ANIMATION_04 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/builder.cfg", line 27: global macro ANIMATION_04_140 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/builder.cfg", line 15: global macro ANIMATION_08 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/builder.cfg", line 18: global macro ANIMATION_10 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/builder.cfg", line 21: global macro ANIMATION_15 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/builder.cfg", line 24: global macro ANIMATION_15_SLOW is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/builder.cfg", line 30: global macro ANIMATION_18_70 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand_utils.cfg", line 148: global macro ASK_AI is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/utils.cfg", line 130: global macro ATTACK_DEPTH4 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg", line 307: global macro BATS_ENTER_CAVE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 236: local macro BOOK_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 262: local macro BOOK_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg", line 336: global macro BUILD_SOUND_3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/event-utils.cfg", line 12: global macro CALL_FUNCTION is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 259: local macro CHANTAL_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 277: local macro CHANTAL_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/utils.cfg", line 15: global macro CHG_TYPE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 914: local macro CIVILWAR_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 849: local macro CIVILWAR_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 860: local macro CIVILWAR_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 866: local macro CIVILWAR_STAGE4 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 873: local macro CIVILWAR_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 880: local macro CIVILWAR_STAGE5 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 888: local macro CIVILWAR_STAGE5_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 896: local macro CIVILWAR_STAGE6 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 905: local macro CIVILWAR_STAGE6_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/utils.cfg", line 201: global macro CLEAR_GLOBAL_VARIABLE is unused
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/utils/moods.cfg", line 352: global macro CUE_BATTLE is unused
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/utils/moods.cfg", line 260: global macro CUE_EPIC is unused
+"/home/trewe/Games/wesnoth/1.11/data/themes/editor.cfg", line 13: global macro DEFAULT_EDITOR_FONT_NORMAL is unused
+"/home/trewe/Games/wesnoth/1.11/data/themes/editor.cfg", line 19: global macro DEFAULT_EDITOR_FONT_REALLYTINY is unused
+"/home/trewe/Games/wesnoth/1.11/data/themes/editor.cfg", line 17: global macro DEFAULT_EDITOR_FONT_TINY is unused
+"/home/trewe/Games/wesnoth/1.11/data/themes/default.cfg", line 21: local macro DEFAULT_FONT320_NORMAL is unused
+"/home/trewe/Games/wesnoth/1.11/data/themes/widescreen.cfg", line 21: local macro DEFAULT_FONT320_NORMAL is unused
+"/home/trewe/Games/wesnoth/1.11/data/themes/default.cfg", line 23: local macro DEFAULT_FONT320_SMALL is unused
+"/home/trewe/Games/wesnoth/1.11/data/themes/widescreen.cfg", line 23: local macro DEFAULT_FONT320_SMALL is unused
+"/home/trewe/Games/wesnoth/1.11/data/themes/default.cfg", line 25: local macro DEFAULT_FONT320_TINY is unused
+"/home/trewe/Games/wesnoth/1.11/data/themes/widescreen.cfg", line 25: local macro DEFAULT_FONT320_TINY is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/schedules.cfg", line 414: global macro DEFAULT_SCHEDULE_24H is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/schedules.cfg", line 112: global macro DEFAULT_SCHEDULE_MORNING is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/scenarios/03_To_the_Mines.cfg", line 251: local macro DEFEAT_WHEN_HAMEL_DEAD is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg", line 771: local macro DEFEAT_WHEN_HAMEL_DEAD is unused
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/utils/ai.cfg", line 113: global macro DEFEND_AGAINST_PETRIFY is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/deprecated-utils.cfg", line 7: global macro DEPRECATE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_controller.cfg", line 880: global macro DISABLE_AI_CONTROLLER is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_controller.cfg", line 884: global macro DISABLE_AI_CONTROLLER_FOR_SIDE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/internal-corners.cfg", line 48: global macro DISABLE_CORNER_TRANSITIONS is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 24: global macro DISABLE_TRANSITIONS is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/misc.cfg", line 1246: global macro DISABLE_WALLS is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/animation-utils.cfg", line 805: global macro DRAKE_FIRE_ANIM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/animation-utils.cfg", line 297: global macro DRAKE_FLYING_ANIM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/objective-utils.cfg", line 19: global macro EARLY_FINISH_BONUS_CAPTION is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/objective-utils.cfg", line 13: global macro EARLY_FINISH_BONUS_NOTE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/_main.cfg", line 51: local macro EASY is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_controller.cfg", line 917: global macro ENABLE_AI_CONTROLLER_FOR_SIDE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/debug-utils.cfg", line 56: global macro ERROR is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 582: local macro EXODUS_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 174: local macro EXODUS_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 183: local macro EXODUS_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 199: local macro EXODUS_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 243: local macro EXODUS_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 311: local macro EXODUS_STAGE5_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 383: local macro EXODUS_STAGE6_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 458: local macro EXODUS_STAGE7_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 539: local macro EXODUS_STAGE8_END is unused
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/_main.cfg", line 51: local macro EXPERIMENTAL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/unit-utils.cfg", line 186: global macro FACING is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/interface-utils.cfg", line 330: global macro FADE_TO_BLACK_HOLD is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/interface-utils.cfg", line 139: global macro FAKE_UNIT_MOVE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/interface-utils.cfg", line 276: global macro FLASH_BLUE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/interface-utils.cfg", line 267: global macro FLASH_GREEN is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 12: local macro FLIGHT_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 27: local macro FLIGHT_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 57: local macro FLIGHT_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/scenario-utils.cfg", line 9: global macro FOREVER is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 15: local macro FROM_STORMVALE_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 24: local macro FROM_STORMVALE_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 38: local macro FROM_STORMVALE_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/low-macros.cfg", line 329: global macro GET_PERSISTENT_GOLD_FROM3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/low-macros.cfg", line 311: global macro GET_PERSISTENT_RECALLS_FROM3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/_main.cfg", line 63: local macro HARD is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/conditional-utils.cfg", line 53: global macro IF_DEAD is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/builder.cfg", line 3: global macro IMAGE_SINGLE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/schedules.cfg", line 67: global macro INDOORS is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/scenario-utils.cfg", line 13: global macro INFINITY is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/items.cfg", line 6: global macro ITM_WISHINGWELL is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 14: local macro JOURNEY1_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 25: local macro JOURNEY1_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 45: local macro JOURNEY2_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 60: local macro JOURNEY2_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 85: local macro JOURNEY3_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 101: local macro JOURNEY3_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 126: local macro JOURNEY3_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 163: local macro JOURNEY4_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 179: local macro JOURNEY5_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 194: local macro JOURNEY5_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 217: local macro JOURNEY6_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 232: local macro JOURNEY6_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 462: local macro JOURNEY7_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 258: local macro JOURNEY7_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 274: local macro JOURNEY7_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 303: local macro JOURNEY7_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 343: local macro JOURNEY7_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 388: local macro JOURNEY7_STAGE5_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/utils/journey.cfg", line 437: local macro JOURNEY7_STAGE6_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_South_Guard/utils/bigmap.cfg", line 359: global macro JOURNEY_08B_OLD is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Sceptre_of_Fire/utils/bigmap.cfg", line 310: global macro JOURNEY_09_OLD is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg", line 488: global macro JOURNEY_19C_NEW is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg", line 492: global macro JOURNEY_19C_OLD is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/An_Orcish_Incursion/utils/journey.cfg", line 232: local macro JOURNEY_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/journey.cfg", line 544: local macro JOURNEY_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/journey.cfg", line 242: local macro JOURNEY_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 250: local macro JOURNEY_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Two_Brothers/utils/journey.cfg", line 48: local macro JOURNEY_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/An_Orcish_Incursion/utils/journey.cfg", line 12: local macro JOURNEY_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/journey.cfg", line 12: local macro JOURNEY_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/journey.cfg", line 12: local macro JOURNEY_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 12: local macro JOURNEY_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Two_Brothers/utils/journey.cfg", line 12: local macro JOURNEY_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/An_Orcish_Incursion/utils/journey.cfg", line 26: local macro JOURNEY_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/journey.cfg", line 24: local macro JOURNEY_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/journey.cfg", line 22: local macro JOURNEY_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 23: local macro JOURNEY_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Two_Brothers/utils/journey.cfg", line 22: local macro JOURNEY_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/An_Orcish_Incursion/utils/journey.cfg", line 49: local macro JOURNEY_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/journey.cfg", line 47: local macro JOURNEY_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/journey.cfg", line 36: local macro JOURNEY_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 39: local macro JOURNEY_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Two_Brothers/utils/journey.cfg", line 38: local macro JOURNEY_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/An_Orcish_Incursion/utils/journey.cfg", line 81: local macro JOURNEY_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/journey.cfg", line 82: local macro JOURNEY_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/journey.cfg", line 56: local macro JOURNEY_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 60: local macro JOURNEY_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/An_Orcish_Incursion/utils/journey.cfg", line 121: local macro JOURNEY_STAGE5_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/journey.cfg", line 131: local macro JOURNEY_STAGE5_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/journey.cfg", line 85: local macro JOURNEY_STAGE5_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 86: local macro JOURNEY_STAGE5_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/An_Orcish_Incursion/utils/journey.cfg", line 164: local macro JOURNEY_STAGE6_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/journey.cfg", line 200: local macro JOURNEY_STAGE6_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/journey.cfg", line 122: local macro JOURNEY_STAGE6_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 116: local macro JOURNEY_STAGE6_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/An_Orcish_Incursion/utils/journey.cfg", line 209: local macro JOURNEY_STAGE7_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/journey.cfg", line 288: local macro JOURNEY_STAGE7_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/journey.cfg", line 166: local macro JOURNEY_STAGE7_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 149: local macro JOURNEY_STAGE7_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/journey.cfg", line 386: local macro JOURNEY_STAGE8_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/journey.cfg", line 216: local macro JOURNEY_STAGE8_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 185: local macro JOURNEY_STAGE8_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/journey.cfg", line 490: local macro JOURNEY_STAGE9_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 227: local macro JOURNEY_STAGE9_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 375: local macro KALENZ_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 314: local macro KALENZ_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 333: local macro KALENZ_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 343: local macro KALENZ_STAGE3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 359: local macro KALENZ_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 149: local macro KALIAN_TO_BEACH_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 258: local macro KALIAN_TO_CURSED_ISLE_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 110: local macro KALIAN_TO_DRAGON_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 205: local macro KALIAN_TO_TROLL_HOLE_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 139: global macro KEEP_BASE_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 657: global macro KEEP_BASE_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 645: global macro KEEP_BASE_COMPLETE_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 651: global macro KEEP_BASE_COMPLETE_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 639: global macro KEEP_BASE_COMPLETE_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 654: global macro KEEP_BASE_COMPLETE_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 642: global macro KEEP_BASE_COMPLETE_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 648: global macro KEEP_BASE_COMPLETE_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 151: global macro KEEP_BASE_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 127: global macro KEEP_BASE_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 157: global macro KEEP_BASE_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 133: global macro KEEP_BASE_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 145: global macro KEEP_BASE_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 121: global macro KEEP_BASE_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 160: global macro KEEP_BASE_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 136: global macro KEEP_BASE_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 148: global macro KEEP_BASE_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 124: global macro KEEP_BASE_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 154: global macro KEEP_BASE_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 130: global macro KEEP_BASE_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 142: global macro KEEP_BASE_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 176: global macro KEEP_BASE_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 182: global macro KEEP_BASE_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 170: global macro KEEP_BASE_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 185: global macro KEEP_BASE_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 173: global macro KEEP_BASE_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 179: global macro KEEP_BASE_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 237: global macro KEEP_BASE_RESTRICTED is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 385: global macro KEEP_BASE_RESTRICTED2 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 361: global macro KEEP_BASE_RESTRICTED2_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 373: global macro KEEP_BASE_RESTRICTED2_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 349: global macro KEEP_BASE_RESTRICTED2_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 379: global macro KEEP_BASE_RESTRICTED2_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 355: global macro KEEP_BASE_RESTRICTED2_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 367: global macro KEEP_BASE_RESTRICTED2_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 343: global macro KEEP_BASE_RESTRICTED2_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 382: global macro KEEP_BASE_RESTRICTED2_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 358: global macro KEEP_BASE_RESTRICTED2_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 370: global macro KEEP_BASE_RESTRICTED2_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 346: global macro KEEP_BASE_RESTRICTED2_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 376: global macro KEEP_BASE_RESTRICTED2_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 352: global macro KEEP_BASE_RESTRICTED2_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 364: global macro KEEP_BASE_RESTRICTED2_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 410: global macro KEEP_BASE_RESTRICTED2_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 398: global macro KEEP_BASE_RESTRICTED2_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 404: global macro KEEP_BASE_RESTRICTED2_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 392: global macro KEEP_BASE_RESTRICTED2_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 407: global macro KEEP_BASE_RESTRICTED2_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 395: global macro KEEP_BASE_RESTRICTED2_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 401: global macro KEEP_BASE_RESTRICTED2_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 533: global macro KEEP_BASE_RESTRICTED3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 509: global macro KEEP_BASE_RESTRICTED3_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 521: global macro KEEP_BASE_RESTRICTED3_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 497: global macro KEEP_BASE_RESTRICTED3_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 527: global macro KEEP_BASE_RESTRICTED3_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 503: global macro KEEP_BASE_RESTRICTED3_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 515: global macro KEEP_BASE_RESTRICTED3_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 491: global macro KEEP_BASE_RESTRICTED3_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 530: global macro KEEP_BASE_RESTRICTED3_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 506: global macro KEEP_BASE_RESTRICTED3_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 518: global macro KEEP_BASE_RESTRICTED3_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 494: global macro KEEP_BASE_RESTRICTED3_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 524: global macro KEEP_BASE_RESTRICTED3_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 500: global macro KEEP_BASE_RESTRICTED3_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 512: global macro KEEP_BASE_RESTRICTED3_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 558: global macro KEEP_BASE_RESTRICTED3_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 546: global macro KEEP_BASE_RESTRICTED3_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 552: global macro KEEP_BASE_RESTRICTED3_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 540: global macro KEEP_BASE_RESTRICTED3_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 555: global macro KEEP_BASE_RESTRICTED3_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 543: global macro KEEP_BASE_RESTRICTED3_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 549: global macro KEEP_BASE_RESTRICTED3_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 213: global macro KEEP_BASE_RESTRICTED_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 225: global macro KEEP_BASE_RESTRICTED_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 201: global macro KEEP_BASE_RESTRICTED_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 231: global macro KEEP_BASE_RESTRICTED_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 207: global macro KEEP_BASE_RESTRICTED_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 219: global macro KEEP_BASE_RESTRICTED_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 195: global macro KEEP_BASE_RESTRICTED_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 234: global macro KEEP_BASE_RESTRICTED_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 210: global macro KEEP_BASE_RESTRICTED_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 222: global macro KEEP_BASE_RESTRICTED_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 198: global macro KEEP_BASE_RESTRICTED_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 228: global macro KEEP_BASE_RESTRICTED_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 204: global macro KEEP_BASE_RESTRICTED_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 216: global macro KEEP_BASE_RESTRICTED_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 262: global macro KEEP_BASE_RESTRICTED_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 250: global macro KEEP_BASE_RESTRICTED_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 256: global macro KEEP_BASE_RESTRICTED_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 244: global macro KEEP_BASE_RESTRICTED_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 259: global macro KEEP_BASE_RESTRICTED_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 247: global macro KEEP_BASE_RESTRICTED_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 253: global macro KEEP_BASE_RESTRICTED_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 311: global macro KEEP_BASE_ROTATION_RESTRICTED is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 459: global macro KEEP_BASE_ROTATION_RESTRICTED2 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 435: global macro KEEP_BASE_ROTATION_RESTRICTED2_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 447: global macro KEEP_BASE_ROTATION_RESTRICTED2_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 423: global macro KEEP_BASE_ROTATION_RESTRICTED2_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 453: global macro KEEP_BASE_ROTATION_RESTRICTED2_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 429: global macro KEEP_BASE_ROTATION_RESTRICTED2_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 441: global macro KEEP_BASE_ROTATION_RESTRICTED2_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 417: global macro KEEP_BASE_ROTATION_RESTRICTED2_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 456: global macro KEEP_BASE_ROTATION_RESTRICTED2_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 432: global macro KEEP_BASE_ROTATION_RESTRICTED2_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 444: global macro KEEP_BASE_ROTATION_RESTRICTED2_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 420: global macro KEEP_BASE_ROTATION_RESTRICTED2_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 450: global macro KEEP_BASE_ROTATION_RESTRICTED2_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 426: global macro KEEP_BASE_ROTATION_RESTRICTED2_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 438: global macro KEEP_BASE_ROTATION_RESTRICTED2_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 484: global macro KEEP_BASE_ROTATION_RESTRICTED2_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 472: global macro KEEP_BASE_ROTATION_RESTRICTED2_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 478: global macro KEEP_BASE_ROTATION_RESTRICTED2_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 466: global macro KEEP_BASE_ROTATION_RESTRICTED2_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 481: global macro KEEP_BASE_ROTATION_RESTRICTED2_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 469: global macro KEEP_BASE_ROTATION_RESTRICTED2_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 475: global macro KEEP_BASE_ROTATION_RESTRICTED2_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 607: global macro KEEP_BASE_ROTATION_RESTRICTED3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 583: global macro KEEP_BASE_ROTATION_RESTRICTED3_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 595: global macro KEEP_BASE_ROTATION_RESTRICTED3_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 571: global macro KEEP_BASE_ROTATION_RESTRICTED3_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 601: global macro KEEP_BASE_ROTATION_RESTRICTED3_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 577: global macro KEEP_BASE_ROTATION_RESTRICTED3_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 589: global macro KEEP_BASE_ROTATION_RESTRICTED3_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 565: global macro KEEP_BASE_ROTATION_RESTRICTED3_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 604: global macro KEEP_BASE_ROTATION_RESTRICTED3_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 580: global macro KEEP_BASE_ROTATION_RESTRICTED3_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 592: global macro KEEP_BASE_ROTATION_RESTRICTED3_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 568: global macro KEEP_BASE_ROTATION_RESTRICTED3_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 598: global macro KEEP_BASE_ROTATION_RESTRICTED3_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 574: global macro KEEP_BASE_ROTATION_RESTRICTED3_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 586: global macro KEEP_BASE_ROTATION_RESTRICTED3_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 632: global macro KEEP_BASE_ROTATION_RESTRICTED3_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 620: global macro KEEP_BASE_ROTATION_RESTRICTED3_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 626: global macro KEEP_BASE_ROTATION_RESTRICTED3_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 614: global macro KEEP_BASE_ROTATION_RESTRICTED3_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 629: global macro KEEP_BASE_ROTATION_RESTRICTED3_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 617: global macro KEEP_BASE_ROTATION_RESTRICTED3_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 623: global macro KEEP_BASE_ROTATION_RESTRICTED3_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 287: global macro KEEP_BASE_ROTATION_RESTRICTED_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 299: global macro KEEP_BASE_ROTATION_RESTRICTED_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 275: global macro KEEP_BASE_ROTATION_RESTRICTED_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 305: global macro KEEP_BASE_ROTATION_RESTRICTED_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 281: global macro KEEP_BASE_ROTATION_RESTRICTED_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 293: global macro KEEP_BASE_ROTATION_RESTRICTED_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 269: global macro KEEP_BASE_ROTATION_RESTRICTED_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 308: global macro KEEP_BASE_ROTATION_RESTRICTED_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 284: global macro KEEP_BASE_ROTATION_RESTRICTED_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 296: global macro KEEP_BASE_ROTATION_RESTRICTED_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 272: global macro KEEP_BASE_ROTATION_RESTRICTED_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 302: global macro KEEP_BASE_ROTATION_RESTRICTED_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 278: global macro KEEP_BASE_ROTATION_RESTRICTED_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 290: global macro KEEP_BASE_ROTATION_RESTRICTED_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 336: global macro KEEP_BASE_ROTATION_RESTRICTED_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 324: global macro KEEP_BASE_ROTATION_RESTRICTED_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 330: global macro KEEP_BASE_ROTATION_RESTRICTED_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 318: global macro KEEP_BASE_ROTATION_RESTRICTED_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 333: global macro KEEP_BASE_ROTATION_RESTRICTED_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 321: global macro KEEP_BASE_ROTATION_RESTRICTED_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/keep.cfg", line 327: global macro KEEP_BASE_ROTATION_RESTRICTED_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/scenarios/chapter4/17_Breaking_the_Siege.cfg", line 3: global macro LANDAR_SPOILED is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 23: local macro LANDING_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 47: local macro LANDING_TO_KALIAN_STAGE1 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 57: local macro LANDING_TO_KALIAN_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-bigmap.cfg", line 78: local macro LANDING_TO_KALIAN_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/tracks.cfg", line 40: global macro LAYOUT_TRACKS_STRAIGHT_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/debug-utils.cfg", line 28: global macro LOG is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/utils.cfg", line 283: global macro LOOKUP_VALUE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/low-macros.cfg", line 149: global macro LOW_ENSURE_CANRECRUIT is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/low-macros.cfg", line 156: global macro LOW_ENSURE_NOT_HERO is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/low-macros.cfg", line 172: global macro LOW_STEAL_UNIT_TO is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/misc.cfg", line 69: global macro MEMOIRS_SIDEKICK is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/interface-utils.cfg", line 7: global macro MESSAGE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_micro_ais.cfg", line 81: global macro MICRO_AI_ANIMALS is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_micro_ais.cfg", line 201: global macro MICRO_AI_GOTO is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_micro_ais.cfg", line 101: global macro MICRO_AI_GUARDIAN is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_micro_ais.cfg", line 21: global macro MICRO_AI_HEALER_SUPPORT is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_micro_ais.cfg", line 161: global macro MICRO_AI_LURKERS is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_micro_ais.cfg", line 61: global macro MICRO_AI_MESSENGER_ESCORT is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_micro_ais.cfg", line 141: global macro MICRO_AI_PATROL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_micro_ais.cfg", line 121: global macro MICRO_AI_PROTECT_UNIT is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai_micro_ais.cfg", line 181: global macro MICRO_AI_RECRUITING is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/animation-utils.cfg", line 418: global macro MISSILE_FRAME_FIRE_BREATH_N is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/animation-utils.cfg", line 436: global macro MISSILE_FRAME_FIRE_BREATH_N_DIAGONAL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/animation-utils.cfg", line 427: global macro MISSILE_FRAME_FIRE_BREATH_S is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/animation-utils.cfg", line 445: global macro MISSILE_FRAME_FIRE_BREATH_S_DIAGONAL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 333: global macro MODIFY_AI_ADD_SIMPLE_ALWAYS_ASPECT_VALUE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 313: global macro MODIFY_AI_ADD_SIMPLE_DAY_ASPECT is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 360: global macro MODIFY_AI_ADD_SIMPLE_DAY_ASPECT_VALUE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 307: global macro MODIFY_AI_ADD_SIMPLE_NIGHT_ASPECT is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 354: global macro MODIFY_AI_ADD_SIMPLE_NIGHT_ASPECT_VALUE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 21: global macro MODIFY_AI_ADD_STAGE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 70: global macro MODIFY_AI_DELETE_STAGE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 152: global macro MODIFY_AI_TRY_DELETE_CANDIDATE_ACTION is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/ai.cfg", line 138: global macro MODIFY_AI_TRY_DELETE_GOAL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/utils.cfg", line 331: global macro MOVE_UNIT_BY is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/new-macros.cfg", line 4: global macro NEW:BASE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/objective-utils.cfg", line 31: global macro NEW_GOLD_CARRYOVER_NOTE_100 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/objective-utils.cfg", line 39: global macro NEW_GOLD_CARRYOVER_NOTE_20 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/objective-utils.cfg", line 35: global macro NEW_GOLD_CARRYOVER_NOTE_40 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/_main.cfg", line 57: local macro NORMAL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/objective-utils.cfg", line 16: global macro NO_EARLY_FINISH_BONUS_NOTE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/event-utils.cfg", line 42: global macro NO_INTERRUPT_NO_UNDO is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/unit-utils.cfg", line 176: global macro NO_UPKEEP is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/utils/utils.cfg", line 43: global macro OBJ_HOLY_ANKH is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/items.cfg", line 329: global macro OBJ_POTION_DECAY is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/items.cfg", line 188: global macro OBJ_POTION_HEALING is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/items.cfg", line 226: global macro OBJ_POTION_POISON is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/items.cfg", line 286: global macro OBJ_POTION_STRONG is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/items.cfg", line 366: global macro OBJ_RING_REGENERATION is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/items.cfg", line 405: global macro OBJ_RING_SLOW is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/items.cfg", line 442: global macro OBJ_STAFF_SPEED is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/utils.cfg", line 67: global macro ON_DIFFICULTY4 is unused
+"/home/trewe/Games/wesnoth/1.11/data/multiplayer/scenarios/ANL_utils/ANL_general_macros.cfg", line 11: global macro OPEN_CHEST is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 644: global macro OVERLAY_COMPLETE_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 638: global macro OVERLAY_COMPLETE_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 641: global macro OVERLAY_COMPLETE_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 126: global macro OVERLAY_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 156: global macro OVERLAY_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 132: global macro OVERLAY_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 120: global macro OVERLAY_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 135: global macro OVERLAY_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 147: global macro OVERLAY_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 123: global macro OVERLAY_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 153: global macro OVERLAY_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 129: global macro OVERLAY_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 141: global macro OVERLAY_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 175: global macro OVERLAY_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 181: global macro OVERLAY_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 169: global macro OVERLAY_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 172: global macro OVERLAY_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 236: global macro OVERLAY_RESTRICTED is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 384: global macro OVERLAY_RESTRICTED2 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 360: global macro OVERLAY_RESTRICTED2_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 348: global macro OVERLAY_RESTRICTED2_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 378: global macro OVERLAY_RESTRICTED2_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 354: global macro OVERLAY_RESTRICTED2_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 366: global macro OVERLAY_RESTRICTED2_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 342: global macro OVERLAY_RESTRICTED2_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 381: global macro OVERLAY_RESTRICTED2_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 357: global macro OVERLAY_RESTRICTED2_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 369: global macro OVERLAY_RESTRICTED2_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 345: global macro OVERLAY_RESTRICTED2_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 375: global macro OVERLAY_RESTRICTED2_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 351: global macro OVERLAY_RESTRICTED2_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 363: global macro OVERLAY_RESTRICTED2_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 409: global macro OVERLAY_RESTRICTED2_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 397: global macro OVERLAY_RESTRICTED2_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 403: global macro OVERLAY_RESTRICTED2_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 391: global macro OVERLAY_RESTRICTED2_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 406: global macro OVERLAY_RESTRICTED2_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 394: global macro OVERLAY_RESTRICTED2_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 400: global macro OVERLAY_RESTRICTED2_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 532: global macro OVERLAY_RESTRICTED3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 508: global macro OVERLAY_RESTRICTED3_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 496: global macro OVERLAY_RESTRICTED3_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 526: global macro OVERLAY_RESTRICTED3_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 502: global macro OVERLAY_RESTRICTED3_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 514: global macro OVERLAY_RESTRICTED3_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 490: global macro OVERLAY_RESTRICTED3_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 529: global macro OVERLAY_RESTRICTED3_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 505: global macro OVERLAY_RESTRICTED3_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 517: global macro OVERLAY_RESTRICTED3_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 493: global macro OVERLAY_RESTRICTED3_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 523: global macro OVERLAY_RESTRICTED3_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 499: global macro OVERLAY_RESTRICTED3_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 511: global macro OVERLAY_RESTRICTED3_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 557: global macro OVERLAY_RESTRICTED3_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 545: global macro OVERLAY_RESTRICTED3_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 551: global macro OVERLAY_RESTRICTED3_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 539: global macro OVERLAY_RESTRICTED3_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 554: global macro OVERLAY_RESTRICTED3_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 542: global macro OVERLAY_RESTRICTED3_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 548: global macro OVERLAY_RESTRICTED3_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 212: global macro OVERLAY_RESTRICTED_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 224: global macro OVERLAY_RESTRICTED_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 200: global macro OVERLAY_RESTRICTED_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 230: global macro OVERLAY_RESTRICTED_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 206: global macro OVERLAY_RESTRICTED_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 218: global macro OVERLAY_RESTRICTED_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 194: global macro OVERLAY_RESTRICTED_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 209: global macro OVERLAY_RESTRICTED_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 221: global macro OVERLAY_RESTRICTED_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 197: global macro OVERLAY_RESTRICTED_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 227: global macro OVERLAY_RESTRICTED_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 203: global macro OVERLAY_RESTRICTED_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 215: global macro OVERLAY_RESTRICTED_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 261: global macro OVERLAY_RESTRICTED_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 249: global macro OVERLAY_RESTRICTED_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 255: global macro OVERLAY_RESTRICTED_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 243: global macro OVERLAY_RESTRICTED_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 258: global macro OVERLAY_RESTRICTED_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 246: global macro OVERLAY_RESTRICTED_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 252: global macro OVERLAY_RESTRICTED_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 310: global macro OVERLAY_ROTATION_RESTRICTED is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 458: global macro OVERLAY_ROTATION_RESTRICTED2 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 434: global macro OVERLAY_ROTATION_RESTRICTED2_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 422: global macro OVERLAY_ROTATION_RESTRICTED2_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 452: global macro OVERLAY_ROTATION_RESTRICTED2_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 428: global macro OVERLAY_ROTATION_RESTRICTED2_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 440: global macro OVERLAY_ROTATION_RESTRICTED2_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 416: global macro OVERLAY_ROTATION_RESTRICTED2_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 455: global macro OVERLAY_ROTATION_RESTRICTED2_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 431: global macro OVERLAY_ROTATION_RESTRICTED2_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 443: global macro OVERLAY_ROTATION_RESTRICTED2_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 419: global macro OVERLAY_ROTATION_RESTRICTED2_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 449: global macro OVERLAY_ROTATION_RESTRICTED2_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 425: global macro OVERLAY_ROTATION_RESTRICTED2_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 437: global macro OVERLAY_ROTATION_RESTRICTED2_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 483: global macro OVERLAY_ROTATION_RESTRICTED2_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 471: global macro OVERLAY_ROTATION_RESTRICTED2_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 477: global macro OVERLAY_ROTATION_RESTRICTED2_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 465: global macro OVERLAY_ROTATION_RESTRICTED2_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 480: global macro OVERLAY_ROTATION_RESTRICTED2_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 468: global macro OVERLAY_ROTATION_RESTRICTED2_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 474: global macro OVERLAY_ROTATION_RESTRICTED2_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 606: global macro OVERLAY_ROTATION_RESTRICTED3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 582: global macro OVERLAY_ROTATION_RESTRICTED3_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 594: global macro OVERLAY_ROTATION_RESTRICTED3_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 570: global macro OVERLAY_ROTATION_RESTRICTED3_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 600: global macro OVERLAY_ROTATION_RESTRICTED3_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 576: global macro OVERLAY_ROTATION_RESTRICTED3_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 588: global macro OVERLAY_ROTATION_RESTRICTED3_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 564: global macro OVERLAY_ROTATION_RESTRICTED3_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 603: global macro OVERLAY_ROTATION_RESTRICTED3_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 579: global macro OVERLAY_ROTATION_RESTRICTED3_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 591: global macro OVERLAY_ROTATION_RESTRICTED3_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 567: global macro OVERLAY_ROTATION_RESTRICTED3_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 597: global macro OVERLAY_ROTATION_RESTRICTED3_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 573: global macro OVERLAY_ROTATION_RESTRICTED3_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 585: global macro OVERLAY_ROTATION_RESTRICTED3_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 631: global macro OVERLAY_ROTATION_RESTRICTED3_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 619: global macro OVERLAY_ROTATION_RESTRICTED3_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 625: global macro OVERLAY_ROTATION_RESTRICTED3_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 613: global macro OVERLAY_ROTATION_RESTRICTED3_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 628: global macro OVERLAY_ROTATION_RESTRICTED3_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 616: global macro OVERLAY_ROTATION_RESTRICTED3_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 622: global macro OVERLAY_ROTATION_RESTRICTED3_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 286: global macro OVERLAY_ROTATION_RESTRICTED_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 274: global macro OVERLAY_ROTATION_RESTRICTED_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 304: global macro OVERLAY_ROTATION_RESTRICTED_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 280: global macro OVERLAY_ROTATION_RESTRICTED_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 292: global macro OVERLAY_ROTATION_RESTRICTED_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 268: global macro OVERLAY_ROTATION_RESTRICTED_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 307: global macro OVERLAY_ROTATION_RESTRICTED_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 283: global macro OVERLAY_ROTATION_RESTRICTED_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 295: global macro OVERLAY_ROTATION_RESTRICTED_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 271: global macro OVERLAY_ROTATION_RESTRICTED_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 301: global macro OVERLAY_ROTATION_RESTRICTED_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 277: global macro OVERLAY_ROTATION_RESTRICTED_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 289: global macro OVERLAY_ROTATION_RESTRICTED_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 335: global macro OVERLAY_ROTATION_RESTRICTED_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 323: global macro OVERLAY_ROTATION_RESTRICTED_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 329: global macro OVERLAY_ROTATION_RESTRICTED_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 317: global macro OVERLAY_ROTATION_RESTRICTED_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 332: global macro OVERLAY_ROTATION_RESTRICTED_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 320: global macro OVERLAY_ROTATION_RESTRICTED_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/overlay.cfg", line 326: global macro OVERLAY_ROTATION_RESTRICTED_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/conditional-utils.cfg", line 7: global macro OWN_VILLAGE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg", line 587: global macro PLACE_A is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg", line 589: global macro PLACE_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/scenarios/chapter3/10_Cliffs_of_Thoria.cfg", line 56: local macro PLAYER_GOLD is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg", line 199: global macro RATHELN_ENCOUNTER is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/side-utils.cfg", line 270: global macro RECALL_AI_SIDE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 123: local macro RECOVERY_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 77: local macro RECOVERY_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 91: local macro RECOVERY_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 111: local macro RECOVERY_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand_utils.cfg", line 182: global macro RECRUIT_ORC is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 66: local macro RESCUE_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 61: local macro RESCUE_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 46: local macro REVOLT_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 12: local macro REVOLT_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 21: local macro REVOLT_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 36: local macro REVOLT_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 807: local macro SAURIANS_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 725: local macro SAURIANS_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 749: local macro SAURIANS_STAGE3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 778: local macro SAURIANS_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 226: local macro SEARCH_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 12: local macro SEARCH_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 22: local macro SEARCH_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 36: local macro SEARCH_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 54: local macro SEARCH_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 89: local macro SEARCH_STAGE5_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 141: local macro SEARCH_STAGE6_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 197: local macro SEARCH_STAGE7_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Descent_Into_Darkness/utils/macros.cfg", line 14: global macro SPEAK is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/special-notes.cfg", line 16: global macro SPECIAL_NOTES_EXTRA_HEAL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/special-notes.cfg", line 70: global macro SPECIAL_NOTES_PETRIFY is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/characters.cfg", line 145: global macro SPEECH_CLEODIL is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/low-macros.cfg", line 61: global macro STARTING_VILLAGES_ORC is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/teleport-utils.cfg", line 235: global macro TELEPORT_EFFECT_OBJECT is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/teleport-utils.cfg", line 203: global macro TELEPORT_EFFECT_OBJECT_ID is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/teleport-utils.cfg", line 26: global macro TELEPORT_TILE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/castles.cfg", line 30: global macro TERRAIN_ADJACENT_CORNER is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/castles.cfg", line 57: global macro TERRAIN_ADJACENT_CORNER_FLAG1 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/castles.cfg", line 2: global macro TERRAIN_ADJACENT_CORNER_LAYER is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/castles.cfg", line 85: global macro TERRAIN_ADJACENT_CORNER_PROB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 144: global macro TERRAIN_BASE_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 711: global macro TERRAIN_BASE_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 699: global macro TERRAIN_BASE_COMPLETE_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 705: global macro TERRAIN_BASE_COMPLETE_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 693: global macro TERRAIN_BASE_COMPLETE_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 708: global macro TERRAIN_BASE_COMPLETE_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 696: global macro TERRAIN_BASE_COMPLETE_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 702: global macro TERRAIN_BASE_COMPLETE_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 132: global macro TERRAIN_BASE_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 162: global macro TERRAIN_BASE_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 138: global macro TERRAIN_BASE_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 150: global macro TERRAIN_BASE_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 126: global macro TERRAIN_BASE_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 141: global macro TERRAIN_BASE_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 153: global macro TERRAIN_BASE_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 129: global macro TERRAIN_BASE_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 159: global macro TERRAIN_BASE_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 135: global macro TERRAIN_BASE_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 147: global macro TERRAIN_BASE_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 181: global macro TERRAIN_BASE_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 187: global macro TERRAIN_BASE_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 175: global macro TERRAIN_BASE_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 190: global macro TERRAIN_BASE_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 178: global macro TERRAIN_BASE_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 184: global macro TERRAIN_BASE_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 291: global macro TERRAIN_BASE_RESTRICTED is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 439: global macro TERRAIN_BASE_RESTRICTED2 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 415: global macro TERRAIN_BASE_RESTRICTED2_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 427: global macro TERRAIN_BASE_RESTRICTED2_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 403: global macro TERRAIN_BASE_RESTRICTED2_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 433: global macro TERRAIN_BASE_RESTRICTED2_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 409: global macro TERRAIN_BASE_RESTRICTED2_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 421: global macro TERRAIN_BASE_RESTRICTED2_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 397: global macro TERRAIN_BASE_RESTRICTED2_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 436: global macro TERRAIN_BASE_RESTRICTED2_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 412: global macro TERRAIN_BASE_RESTRICTED2_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 424: global macro TERRAIN_BASE_RESTRICTED2_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 400: global macro TERRAIN_BASE_RESTRICTED2_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 430: global macro TERRAIN_BASE_RESTRICTED2_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 406: global macro TERRAIN_BASE_RESTRICTED2_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 418: global macro TERRAIN_BASE_RESTRICTED2_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 464: global macro TERRAIN_BASE_RESTRICTED2_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 452: global macro TERRAIN_BASE_RESTRICTED2_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 458: global macro TERRAIN_BASE_RESTRICTED2_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 446: global macro TERRAIN_BASE_RESTRICTED2_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 461: global macro TERRAIN_BASE_RESTRICTED2_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 449: global macro TERRAIN_BASE_RESTRICTED2_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 455: global macro TERRAIN_BASE_RESTRICTED2_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 587: global macro TERRAIN_BASE_RESTRICTED3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 563: global macro TERRAIN_BASE_RESTRICTED3_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 575: global macro TERRAIN_BASE_RESTRICTED3_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 551: global macro TERRAIN_BASE_RESTRICTED3_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 581: global macro TERRAIN_BASE_RESTRICTED3_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 557: global macro TERRAIN_BASE_RESTRICTED3_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 569: global macro TERRAIN_BASE_RESTRICTED3_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 545: global macro TERRAIN_BASE_RESTRICTED3_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 584: global macro TERRAIN_BASE_RESTRICTED3_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 560: global macro TERRAIN_BASE_RESTRICTED3_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 572: global macro TERRAIN_BASE_RESTRICTED3_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 548: global macro TERRAIN_BASE_RESTRICTED3_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 578: global macro TERRAIN_BASE_RESTRICTED3_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 554: global macro TERRAIN_BASE_RESTRICTED3_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 566: global macro TERRAIN_BASE_RESTRICTED3_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 612: global macro TERRAIN_BASE_RESTRICTED3_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 600: global macro TERRAIN_BASE_RESTRICTED3_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 606: global macro TERRAIN_BASE_RESTRICTED3_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 594: global macro TERRAIN_BASE_RESTRICTED3_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 609: global macro TERRAIN_BASE_RESTRICTED3_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 597: global macro TERRAIN_BASE_RESTRICTED3_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 603: global macro TERRAIN_BASE_RESTRICTED3_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 267: global macro TERRAIN_BASE_RESTRICTED_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 279: global macro TERRAIN_BASE_RESTRICTED_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 255: global macro TERRAIN_BASE_RESTRICTED_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 285: global macro TERRAIN_BASE_RESTRICTED_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 261: global macro TERRAIN_BASE_RESTRICTED_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 273: global macro TERRAIN_BASE_RESTRICTED_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 249: global macro TERRAIN_BASE_RESTRICTED_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 288: global macro TERRAIN_BASE_RESTRICTED_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 264: global macro TERRAIN_BASE_RESTRICTED_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 276: global macro TERRAIN_BASE_RESTRICTED_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 252: global macro TERRAIN_BASE_RESTRICTED_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 282: global macro TERRAIN_BASE_RESTRICTED_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 258: global macro TERRAIN_BASE_RESTRICTED_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 270: global macro TERRAIN_BASE_RESTRICTED_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 316: global macro TERRAIN_BASE_RESTRICTED_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 304: global macro TERRAIN_BASE_RESTRICTED_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 310: global macro TERRAIN_BASE_RESTRICTED_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 298: global macro TERRAIN_BASE_RESTRICTED_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 313: global macro TERRAIN_BASE_RESTRICTED_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 301: global macro TERRAIN_BASE_RESTRICTED_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 307: global macro TERRAIN_BASE_RESTRICTED_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 365: global macro TERRAIN_BASE_ROTATION_RESTRICTED is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 513: global macro TERRAIN_BASE_ROTATION_RESTRICTED2 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 489: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 501: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 477: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 507: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 483: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 495: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 471: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 510: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 486: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 498: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 474: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 504: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 480: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 492: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 538: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 526: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 532: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 520: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 535: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 523: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 529: global macro TERRAIN_BASE_ROTATION_RESTRICTED2_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 661: global macro TERRAIN_BASE_ROTATION_RESTRICTED3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 637: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 649: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 625: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 655: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 631: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 643: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 619: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 658: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 634: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 646: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 622: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 652: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 628: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 640: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 686: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 674: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 680: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 668: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 683: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 671: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 677: global macro TERRAIN_BASE_ROTATION_RESTRICTED3_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 341: global macro TERRAIN_BASE_ROTATION_RESTRICTED_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 353: global macro TERRAIN_BASE_ROTATION_RESTRICTED_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 329: global macro TERRAIN_BASE_ROTATION_RESTRICTED_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 359: global macro TERRAIN_BASE_ROTATION_RESTRICTED_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 335: global macro TERRAIN_BASE_ROTATION_RESTRICTED_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 347: global macro TERRAIN_BASE_ROTATION_RESTRICTED_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 323: global macro TERRAIN_BASE_ROTATION_RESTRICTED_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 362: global macro TERRAIN_BASE_ROTATION_RESTRICTED_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 338: global macro TERRAIN_BASE_ROTATION_RESTRICTED_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 350: global macro TERRAIN_BASE_ROTATION_RESTRICTED_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 326: global macro TERRAIN_BASE_ROTATION_RESTRICTED_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 356: global macro TERRAIN_BASE_ROTATION_RESTRICTED_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 332: global macro TERRAIN_BASE_ROTATION_RESTRICTED_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 344: global macro TERRAIN_BASE_ROTATION_RESTRICTED_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 390: global macro TERRAIN_BASE_ROTATION_RESTRICTED_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 378: global macro TERRAIN_BASE_ROTATION_RESTRICTED_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 384: global macro TERRAIN_BASE_ROTATION_RESTRICTED_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 372: global macro TERRAIN_BASE_ROTATION_RESTRICTED_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 387: global macro TERRAIN_BASE_ROTATION_RESTRICTED_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 375: global macro TERRAIN_BASE_ROTATION_RESTRICTED_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 381: global macro TERRAIN_BASE_ROTATION_RESTRICTED_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 242: global macro TERRAIN_BASE_SINGLEHEX is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 230: global macro TERRAIN_BASE_SINGLEHEX_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 206: global macro TERRAIN_BASE_SINGLEHEX_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 236: global macro TERRAIN_BASE_SINGLEHEX_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 212: global macro TERRAIN_BASE_SINGLEHEX_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 224: global macro TERRAIN_BASE_SINGLEHEX_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 200: global macro TERRAIN_BASE_SINGLEHEX_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 239: global macro TERRAIN_BASE_SINGLEHEX_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 215: global macro TERRAIN_BASE_SINGLEHEX_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 227: global macro TERRAIN_BASE_SINGLEHEX_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 203: global macro TERRAIN_BASE_SINGLEHEX_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 233: global macro TERRAIN_BASE_SINGLEHEX_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 209: global macro TERRAIN_BASE_SINGLEHEX_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/base.cfg", line 221: global macro TERRAIN_BASE_SINGLEHEX_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 118: local macro THE_MIDLANDS_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 142: local macro THE_MIDLANDS_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 64: local macro THE_RIVER_ROAD_STAGE1_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Rise_Of_Wesnoth/utils/trow-green-isle-journey.cfg", line 84: local macro THE_RIVER_ROAD_STAGE2_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/interface-utils.cfg", line 285: global macro THUNDER is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/debug-utils.cfg", line 67: global macro TIMED_ACTIONS is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 958: global macro TO_DARK_SKIES_OVER_WELDYN is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 953: global macro TO_IN_THE_KINGS_COUNCIL is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/utils/journey.cfg", line 307: global macro TO_MAGES_AND_DRAKES is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Northern_Rebirth/utils/journey.cfg", line 156: global macro TO_OLD_FRIEND is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/internal-tracks.cfg", line 714: global macro TRACK_TEST_FLAG is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/unit-utils.cfg", line 241: global macro TRANSFORM_UNIT is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 622: global macro TRANSITION_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 610: global macro TRANSITION_COMPLETE_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 616: global macro TRANSITION_COMPLETE_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 604: global macro TRANSITION_COMPLETE_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 202: global macro TRANSITION_RESTRICTED is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 276: global macro TRANSITION_RESTRICTED2 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 252: global macro TRANSITION_RESTRICTED2_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 264: global macro TRANSITION_RESTRICTED2_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 240: global macro TRANSITION_RESTRICTED2_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 270: global macro TRANSITION_RESTRICTED2_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 246: global macro TRANSITION_RESTRICTED2_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 258: global macro TRANSITION_RESTRICTED2_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 234: global macro TRANSITION_RESTRICTED2_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 273: global macro TRANSITION_RESTRICTED2_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 249: global macro TRANSITION_RESTRICTED2_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 261: global macro TRANSITION_RESTRICTED2_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 237: global macro TRANSITION_RESTRICTED2_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 267: global macro TRANSITION_RESTRICTED2_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 243: global macro TRANSITION_RESTRICTED2_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 255: global macro TRANSITION_RESTRICTED2_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 301: global macro TRANSITION_RESTRICTED2_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 289: global macro TRANSITION_RESTRICTED2_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 295: global macro TRANSITION_RESTRICTED2_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 283: global macro TRANSITION_RESTRICTED2_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 298: global macro TRANSITION_RESTRICTED2_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 286: global macro TRANSITION_RESTRICTED2_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 292: global macro TRANSITION_RESTRICTED2_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 350: global macro TRANSITION_RESTRICTED3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 326: global macro TRANSITION_RESTRICTED3_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 338: global macro TRANSITION_RESTRICTED3_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 314: global macro TRANSITION_RESTRICTED3_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 344: global macro TRANSITION_RESTRICTED3_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 320: global macro TRANSITION_RESTRICTED3_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 332: global macro TRANSITION_RESTRICTED3_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 308: global macro TRANSITION_RESTRICTED3_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 347: global macro TRANSITION_RESTRICTED3_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 323: global macro TRANSITION_RESTRICTED3_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 335: global macro TRANSITION_RESTRICTED3_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 311: global macro TRANSITION_RESTRICTED3_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 341: global macro TRANSITION_RESTRICTED3_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 317: global macro TRANSITION_RESTRICTED3_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 329: global macro TRANSITION_RESTRICTED3_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 375: global macro TRANSITION_RESTRICTED3_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 363: global macro TRANSITION_RESTRICTED3_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 369: global macro TRANSITION_RESTRICTED3_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 357: global macro TRANSITION_RESTRICTED3_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 372: global macro TRANSITION_RESTRICTED3_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 360: global macro TRANSITION_RESTRICTED3_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 366: global macro TRANSITION_RESTRICTED3_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 424: global macro TRANSITION_RESTRICTED4 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 400: global macro TRANSITION_RESTRICTED4_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 412: global macro TRANSITION_RESTRICTED4_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 388: global macro TRANSITION_RESTRICTED4_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 418: global macro TRANSITION_RESTRICTED4_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 394: global macro TRANSITION_RESTRICTED4_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 406: global macro TRANSITION_RESTRICTED4_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 382: global macro TRANSITION_RESTRICTED4_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 421: global macro TRANSITION_RESTRICTED4_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 397: global macro TRANSITION_RESTRICTED4_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 409: global macro TRANSITION_RESTRICTED4_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 385: global macro TRANSITION_RESTRICTED4_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 415: global macro TRANSITION_RESTRICTED4_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 391: global macro TRANSITION_RESTRICTED4_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 403: global macro TRANSITION_RESTRICTED4_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 449: global macro TRANSITION_RESTRICTED4_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 437: global macro TRANSITION_RESTRICTED4_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 443: global macro TRANSITION_RESTRICTED4_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 431: global macro TRANSITION_RESTRICTED4_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 446: global macro TRANSITION_RESTRICTED4_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 434: global macro TRANSITION_RESTRICTED4_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 440: global macro TRANSITION_RESTRICTED4_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 498: global macro TRANSITION_RESTRICTED5 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 474: global macro TRANSITION_RESTRICTED5_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 486: global macro TRANSITION_RESTRICTED5_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 462: global macro TRANSITION_RESTRICTED5_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 492: global macro TRANSITION_RESTRICTED5_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 468: global macro TRANSITION_RESTRICTED5_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 480: global macro TRANSITION_RESTRICTED5_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 456: global macro TRANSITION_RESTRICTED5_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 495: global macro TRANSITION_RESTRICTED5_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 471: global macro TRANSITION_RESTRICTED5_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 483: global macro TRANSITION_RESTRICTED5_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 459: global macro TRANSITION_RESTRICTED5_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 489: global macro TRANSITION_RESTRICTED5_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 465: global macro TRANSITION_RESTRICTED5_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 477: global macro TRANSITION_RESTRICTED5_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 523: global macro TRANSITION_RESTRICTED5_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 511: global macro TRANSITION_RESTRICTED5_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 517: global macro TRANSITION_RESTRICTED5_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 505: global macro TRANSITION_RESTRICTED5_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 520: global macro TRANSITION_RESTRICTED5_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 508: global macro TRANSITION_RESTRICTED5_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 514: global macro TRANSITION_RESTRICTED5_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 572: global macro TRANSITION_RESTRICTED6 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 548: global macro TRANSITION_RESTRICTED6_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 560: global macro TRANSITION_RESTRICTED6_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 536: global macro TRANSITION_RESTRICTED6_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 566: global macro TRANSITION_RESTRICTED6_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 542: global macro TRANSITION_RESTRICTED6_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 554: global macro TRANSITION_RESTRICTED6_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 530: global macro TRANSITION_RESTRICTED6_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 569: global macro TRANSITION_RESTRICTED6_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 545: global macro TRANSITION_RESTRICTED6_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 557: global macro TRANSITION_RESTRICTED6_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 533: global macro TRANSITION_RESTRICTED6_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 563: global macro TRANSITION_RESTRICTED6_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 539: global macro TRANSITION_RESTRICTED6_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 551: global macro TRANSITION_RESTRICTED6_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 597: global macro TRANSITION_RESTRICTED6_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 585: global macro TRANSITION_RESTRICTED6_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 591: global macro TRANSITION_RESTRICTED6_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 579: global macro TRANSITION_RESTRICTED6_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 594: global macro TRANSITION_RESTRICTED6_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 582: global macro TRANSITION_RESTRICTED6_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 588: global macro TRANSITION_RESTRICTED6_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 178: global macro TRANSITION_RESTRICTED_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 190: global macro TRANSITION_RESTRICTED_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 166: global macro TRANSITION_RESTRICTED_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 196: global macro TRANSITION_RESTRICTED_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 172: global macro TRANSITION_RESTRICTED_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 184: global macro TRANSITION_RESTRICTED_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 160: global macro TRANSITION_RESTRICTED_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 199: global macro TRANSITION_RESTRICTED_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 175: global macro TRANSITION_RESTRICTED_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 187: global macro TRANSITION_RESTRICTED_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 163: global macro TRANSITION_RESTRICTED_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 193: global macro TRANSITION_RESTRICTED_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 169: global macro TRANSITION_RESTRICTED_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 181: global macro TRANSITION_RESTRICTED_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 227: global macro TRANSITION_RESTRICTED_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 215: global macro TRANSITION_RESTRICTED_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 221: global macro TRANSITION_RESTRICTED_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 209: global macro TRANSITION_RESTRICTED_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 224: global macro TRANSITION_RESTRICTED_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 212: global macro TRANSITION_RESTRICTED_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/transitions.cfg", line 218: global macro TRANSITION_RESTRICTED_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 137: local macro TREASURY_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/journey.cfg", line 174: local macro TREASURY_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 817: local macro TRIUMPH_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 524: local macro TRIUMPH_STAGE3_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 628: local macro TRIUMPH_STAGE4_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/utils/journey.cfg", line 750: local macro TRIUMPH_STAGE5_END is unused
+"/home/trewe/Games/wesnoth/1.11/data/multiplayer/scenarios/6p_Team_Survival.cfg", line 235: local macro TS_HOME_SPAWN is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/units/undead/Corpse_Walking.cfg", line 37: global macro UNIT_BODY_WALKING_CORPSE_GRAPHICS_NO_DEATH_ANIM is unused
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/utils/utils.cfg", line 267: global macro UNIT_MSG is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/unit-utils.cfg", line 193: global macro VARIATION is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 162: global macro VILLAGE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 138: global macro VILLAGE_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 656: global macro VILLAGE_COMPLETE is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 644: global macro VILLAGE_COMPLETE_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 650: global macro VILLAGE_COMPLETE_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 638: global macro VILLAGE_COMPLETE_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 653: global macro VILLAGE_COMPLETE_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 641: global macro VILLAGE_COMPLETE_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 647: global macro VILLAGE_COMPLETE_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 150: global macro VILLAGE_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 126: global macro VILLAGE_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/utils/low-macros.cfg", line 117: global macro VILLAGE_KALENZ is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 156: global macro VILLAGE_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 132: global macro VILLAGE_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 144: global macro VILLAGE_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 120: global macro VILLAGE_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 159: global macro VILLAGE_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 135: global macro VILLAGE_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 147: global macro VILLAGE_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 123: global macro VILLAGE_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 153: global macro VILLAGE_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 129: global macro VILLAGE_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 141: global macro VILLAGE_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 187: global macro VILLAGE_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 175: global macro VILLAGE_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 181: global macro VILLAGE_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 169: global macro VILLAGE_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 184: global macro VILLAGE_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 172: global macro VILLAGE_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 178: global macro VILLAGE_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 236: global macro VILLAGE_RESTRICTED is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 384: global macro VILLAGE_RESTRICTED2 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 360: global macro VILLAGE_RESTRICTED2_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 372: global macro VILLAGE_RESTRICTED2_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 348: global macro VILLAGE_RESTRICTED2_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 378: global macro VILLAGE_RESTRICTED2_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 354: global macro VILLAGE_RESTRICTED2_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 366: global macro VILLAGE_RESTRICTED2_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 342: global macro VILLAGE_RESTRICTED2_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 381: global macro VILLAGE_RESTRICTED2_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 357: global macro VILLAGE_RESTRICTED2_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 369: global macro VILLAGE_RESTRICTED2_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 345: global macro VILLAGE_RESTRICTED2_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 375: global macro VILLAGE_RESTRICTED2_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 351: global macro VILLAGE_RESTRICTED2_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 363: global macro VILLAGE_RESTRICTED2_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 409: global macro VILLAGE_RESTRICTED2_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 397: global macro VILLAGE_RESTRICTED2_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 403: global macro VILLAGE_RESTRICTED2_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 391: global macro VILLAGE_RESTRICTED2_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 406: global macro VILLAGE_RESTRICTED2_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 394: global macro VILLAGE_RESTRICTED2_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 400: global macro VILLAGE_RESTRICTED2_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 532: global macro VILLAGE_RESTRICTED3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 508: global macro VILLAGE_RESTRICTED3_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 520: global macro VILLAGE_RESTRICTED3_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 496: global macro VILLAGE_RESTRICTED3_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 526: global macro VILLAGE_RESTRICTED3_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 502: global macro VILLAGE_RESTRICTED3_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 514: global macro VILLAGE_RESTRICTED3_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 490: global macro VILLAGE_RESTRICTED3_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 529: global macro VILLAGE_RESTRICTED3_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 505: global macro VILLAGE_RESTRICTED3_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 517: global macro VILLAGE_RESTRICTED3_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 493: global macro VILLAGE_RESTRICTED3_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 523: global macro VILLAGE_RESTRICTED3_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 499: global macro VILLAGE_RESTRICTED3_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 511: global macro VILLAGE_RESTRICTED3_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 557: global macro VILLAGE_RESTRICTED3_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 545: global macro VILLAGE_RESTRICTED3_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 551: global macro VILLAGE_RESTRICTED3_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 539: global macro VILLAGE_RESTRICTED3_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 554: global macro VILLAGE_RESTRICTED3_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 542: global macro VILLAGE_RESTRICTED3_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 548: global macro VILLAGE_RESTRICTED3_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 212: global macro VILLAGE_RESTRICTED_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 224: global macro VILLAGE_RESTRICTED_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 200: global macro VILLAGE_RESTRICTED_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 230: global macro VILLAGE_RESTRICTED_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 206: global macro VILLAGE_RESTRICTED_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 218: global macro VILLAGE_RESTRICTED_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 194: global macro VILLAGE_RESTRICTED_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 233: global macro VILLAGE_RESTRICTED_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 209: global macro VILLAGE_RESTRICTED_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 221: global macro VILLAGE_RESTRICTED_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 197: global macro VILLAGE_RESTRICTED_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 227: global macro VILLAGE_RESTRICTED_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 203: global macro VILLAGE_RESTRICTED_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 215: global macro VILLAGE_RESTRICTED_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 261: global macro VILLAGE_RESTRICTED_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 249: global macro VILLAGE_RESTRICTED_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 255: global macro VILLAGE_RESTRICTED_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 243: global macro VILLAGE_RESTRICTED_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 258: global macro VILLAGE_RESTRICTED_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 246: global macro VILLAGE_RESTRICTED_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 252: global macro VILLAGE_RESTRICTED_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 310: global macro VILLAGE_ROTATION_RESTRICTED is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 458: global macro VILLAGE_ROTATION_RESTRICTED2 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 434: global macro VILLAGE_ROTATION_RESTRICTED2_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 446: global macro VILLAGE_ROTATION_RESTRICTED2_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 422: global macro VILLAGE_ROTATION_RESTRICTED2_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 452: global macro VILLAGE_ROTATION_RESTRICTED2_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 428: global macro VILLAGE_ROTATION_RESTRICTED2_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 440: global macro VILLAGE_ROTATION_RESTRICTED2_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 416: global macro VILLAGE_ROTATION_RESTRICTED2_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 455: global macro VILLAGE_ROTATION_RESTRICTED2_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 431: global macro VILLAGE_ROTATION_RESTRICTED2_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 443: global macro VILLAGE_ROTATION_RESTRICTED2_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 419: global macro VILLAGE_ROTATION_RESTRICTED2_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 449: global macro VILLAGE_ROTATION_RESTRICTED2_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 425: global macro VILLAGE_ROTATION_RESTRICTED2_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 437: global macro VILLAGE_ROTATION_RESTRICTED2_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 483: global macro VILLAGE_ROTATION_RESTRICTED2_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 471: global macro VILLAGE_ROTATION_RESTRICTED2_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 477: global macro VILLAGE_ROTATION_RESTRICTED2_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 465: global macro VILLAGE_ROTATION_RESTRICTED2_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 480: global macro VILLAGE_ROTATION_RESTRICTED2_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 468: global macro VILLAGE_ROTATION_RESTRICTED2_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 474: global macro VILLAGE_ROTATION_RESTRICTED2_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 606: global macro VILLAGE_ROTATION_RESTRICTED3 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 582: global macro VILLAGE_ROTATION_RESTRICTED3_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 594: global macro VILLAGE_ROTATION_RESTRICTED3_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 570: global macro VILLAGE_ROTATION_RESTRICTED3_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 600: global macro VILLAGE_ROTATION_RESTRICTED3_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 576: global macro VILLAGE_ROTATION_RESTRICTED3_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 588: global macro VILLAGE_ROTATION_RESTRICTED3_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 564: global macro VILLAGE_ROTATION_RESTRICTED3_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 603: global macro VILLAGE_ROTATION_RESTRICTED3_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 579: global macro VILLAGE_ROTATION_RESTRICTED3_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 591: global macro VILLAGE_ROTATION_RESTRICTED3_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 567: global macro VILLAGE_ROTATION_RESTRICTED3_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 597: global macro VILLAGE_ROTATION_RESTRICTED3_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 573: global macro VILLAGE_ROTATION_RESTRICTED3_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 585: global macro VILLAGE_ROTATION_RESTRICTED3_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 631: global macro VILLAGE_ROTATION_RESTRICTED3_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 619: global macro VILLAGE_ROTATION_RESTRICTED3_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 625: global macro VILLAGE_ROTATION_RESTRICTED3_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 613: global macro VILLAGE_ROTATION_RESTRICTED3_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 628: global macro VILLAGE_ROTATION_RESTRICTED3_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 616: global macro VILLAGE_ROTATION_RESTRICTED3_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 622: global macro VILLAGE_ROTATION_RESTRICTED3_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 286: global macro VILLAGE_ROTATION_RESTRICTED_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 298: global macro VILLAGE_ROTATION_RESTRICTED_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 274: global macro VILLAGE_ROTATION_RESTRICTED_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 304: global macro VILLAGE_ROTATION_RESTRICTED_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 280: global macro VILLAGE_ROTATION_RESTRICTED_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 292: global macro VILLAGE_ROTATION_RESTRICTED_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 268: global macro VILLAGE_ROTATION_RESTRICTED_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 307: global macro VILLAGE_ROTATION_RESTRICTED_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 283: global macro VILLAGE_ROTATION_RESTRICTED_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 295: global macro VILLAGE_ROTATION_RESTRICTED_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 271: global macro VILLAGE_ROTATION_RESTRICTED_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 301: global macro VILLAGE_ROTATION_RESTRICTED_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 277: global macro VILLAGE_ROTATION_RESTRICTED_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 289: global macro VILLAGE_ROTATION_RESTRICTED_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 335: global macro VILLAGE_ROTATION_RESTRICTED_RANDOM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 323: global macro VILLAGE_ROTATION_RESTRICTED_RANDOM_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 329: global macro VILLAGE_ROTATION_RESTRICTED_RANDOM_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 317: global macro VILLAGE_ROTATION_RESTRICTED_RANDOM_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 332: global macro VILLAGE_ROTATION_RESTRICTED_RANDOM_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 320: global macro VILLAGE_ROTATION_RESTRICTED_RANDOM_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/village.cfg", line 326: global macro VILLAGE_ROTATION_RESTRICTED_RANDOM_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/misc.cfg", line 1280: global macro WALL_ADJACENT is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 71: global macro WALL_TRANSITION is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 120: global macro WALL_TRANSITION2 is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 96: global macro WALL_TRANSITION2_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 108: global macro WALL_TRANSITION2_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 84: global macro WALL_TRANSITION2_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 114: global macro WALL_TRANSITION2_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 90: global macro WALL_TRANSITION2_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 78: global macro WALL_TRANSITION2_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 117: global macro WALL_TRANSITION2_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 93: global macro WALL_TRANSITION2_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 105: global macro WALL_TRANSITION2_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 81: global macro WALL_TRANSITION2_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 111: global macro WALL_TRANSITION2_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 87: global macro WALL_TRANSITION2_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 99: global macro WALL_TRANSITION2_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 145: global macro WALL_TRANSITION3_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 157: global macro WALL_TRANSITION3_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 133: global macro WALL_TRANSITION3_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 163: global macro WALL_TRANSITION3_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 139: global macro WALL_TRANSITION3_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 151: global macro WALL_TRANSITION3_LF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 127: global macro WALL_TRANSITION3_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 166: global macro WALL_TRANSITION3_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 142: global macro WALL_TRANSITION3_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 154: global macro WALL_TRANSITION3_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 130: global macro WALL_TRANSITION3_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 160: global macro WALL_TRANSITION3_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 136: global macro WALL_TRANSITION3_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 148: global macro WALL_TRANSITION3_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 47: global macro WALL_TRANSITION_B is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 59: global macro WALL_TRANSITION_F is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 35: global macro WALL_TRANSITION_FB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 65: global macro WALL_TRANSITION_L is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 41: global macro WALL_TRANSITION_LB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 29: global macro WALL_TRANSITION_LFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 68: global macro WALL_TRANSITION_P is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 44: global macro WALL_TRANSITION_PB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 56: global macro WALL_TRANSITION_PF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 32: global macro WALL_TRANSITION_PFB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 62: global macro WALL_TRANSITION_PL is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 38: global macro WALL_TRANSITION_PLB is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/terrain-graphics/walls.cfg", line 50: global macro WALL_TRANSITION_PLF is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/debug-utils.cfg", line 42: global macro WARNING is unused
+"/home/trewe/src/umc-campaigns/Saving_Elensefar/utils/abilities.cfg", line 391: global macro WEAPON_SPECIAL_CHARM is unused
+"/home/trewe/Games/wesnoth/1.11/data/core/macros/abilities.cfg", line 581: global macro WEAPON_SPECIAL_PLAGUE_TYPE is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/child_king-attack-1.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/child_king-attack-2.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/child_king-attack-3.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/child_king-attack-3n.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/child_king-attack-4.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/child_king-attack-5.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/child_king-defend.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-attack-1.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-attack-2.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-attack-3.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-attack-4.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-attack-4n.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-attack-5.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-attack-6.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-attack-7.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-attack-8.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-defend.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/soldier_king-leading.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-attack-1.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-attack-2.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-attack-3.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-attack-4.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-attack-4n.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-attack-5.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-attack-6.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-attack-7.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-attack-8.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-attack-9.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-defend.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/warrior_king-leading.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-attack-1.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-attack-2.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-attack-3.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-attack-4.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-attack-4n.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-attack-5.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-attack-6.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-attack-7.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-attack-8.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-attack-9.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-defend.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Dead_Water/images/units/merfolk/young_king-leading.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/images/halo/wose-stationary-halo1.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/images/halo/wose-stationary-halo2.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/images/halo/wose-stationary-halo3.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/images/halo/wose-stationary-halo4.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/images/halo/wose-stationary-halo5.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/images/halo/wose-stationary-halo6.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/images/halo/wose-stationary-halo7.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/images/halo/wose-stationary-halo8.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/images/portraits/zorlan.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Delfadors_Memoirs/images/young_delfador.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Eastern_Invasion/images/portraits/konrad_II-sceptre.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Heir_To_The_Throne/images/story/story9.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Legend_of_Wesmere/images/story/characters/highlord.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/images/halo/shadow-mage-halo1.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/images/halo/shadow-mage-halo10.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/images/halo/shadow-mage-halo2.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/images/halo/shadow-mage-halo3.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/images/halo/shadow-mage-halo4.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/images/halo/shadow-mage-halo5.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/images/halo/shadow-mage-halo6.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/images/halo/shadow-mage-halo7.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/images/halo/shadow-mage-halo8.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Liberty/images/halo/shadow-mage-halo9.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Sceptre_of_Fire/images/portraits/elvish_marshal.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Son_Of_The_Black_Eye/images/flags/black-flag-1.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Son_Of_The_Black_Eye/images/flags/black-flag-2.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Son_Of_The_Black_Eye/images/flags/black-flag-3.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/The_Hammer_of_Thursagan/images/halo/karrag-defend_halo.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/The_South_Guard/images/flag/SG-flag-1.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/The_South_Guard/images/flag/SG-flag-2.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/The_South_Guard/images/flag/SG-flag-3.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/The_South_Guard/images/flag/SG-flag-4.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Under_the_Burning_Suns/images/misc/UtBS_title.jpg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Under_the_Burning_Suns/images/projectiles/sand-storm-1.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Under_the_Burning_Suns/images/projectiles/sand-storm-2.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Under_the_Burning_Suns/images/projectiles/sand-storm-3.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Under_the_Burning_Suns/images/projectiles/sand-storm-4.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Under_the_Burning_Suns/images/projectiles/sand-storm-5.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Under_the_Burning_Suns/images/projectiles/sand-storm-6.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Under_the_Burning_Suns/images/projectiles/sand-storm-7.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/campaigns/Under_the_Burning_Suns/images/projectiles/sand-storm-8.png is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/images/story/landscape-battlefield_nohumans.jpg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/images/story/landscape-bridge.jpg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/images/story/landscape-bridge_sun.jpg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/images/story/landscape-castle.jpg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/images/story/landscape-plain.jpg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/music/defeat2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/ambient/campfire.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/bat-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/bat-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/bat-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/bat-hit-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/dragonstick-miss.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/drake-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/drake-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/drake-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/dwarf-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/dwarf-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/dwarf-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/dwarf-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/dwarf-hit-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/elf-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/elf-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/fanfare-short.wav is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/goblin-die-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/goblin-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/goblin-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/goblin-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/goblin-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/gryphon-die-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/gryphon-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/gryphon-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/gunshot.wav is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/horn-signals/horn-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/horn-signals/horn-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/horn-signals/horn-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/horn-signals/horn-5.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/horn-signals/horn-6.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/horn-signals/horn-7.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/horse-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/horse-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/horse-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-die-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-female-die-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-female-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-female-die-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-female-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-female-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-hit-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-hit-5.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-old-die-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-old-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-old-die-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-old-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-old-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-old-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/human-old-hit-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/magic-holy-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/magic-holy-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/magic-holy-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/magic-holy-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/magic-holy-miss-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/magic-holy-miss-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/magic-thorns-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/magic-thorns-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/magic-thorns-miss-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/magic-thorns-miss-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/melee-fire.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/miss-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/miss-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/naga-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/naga-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/naga-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/ogre-die-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/ogre-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/ogre-die-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/ogre-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/ogre-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/ogre-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/ogre-hit-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-die-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-die-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-hit-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-small-die-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-small-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-small-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-small-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-small-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/orc-small-hit-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/petrified.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/skeleton-big-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/skeleton-big-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/skeleton-big-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/skeleton-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/skeleton-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/skeleton-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/skeleton-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/spear.wav is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/throw-1.wav is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/throw-2.wav is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/throw-3.wav is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/throw-4.wav is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/troll-die-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/troll-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/troll-die-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/troll-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/troll-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/troll-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/troll-hit-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-die-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-die-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-die-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-die-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-growl-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-growl-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-growl-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-growl-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/wolf-hit-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/zombie-hit-1.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/zombie-hit-2.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/zombie-hit-3.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/zombie-hit-4.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/zombie-hit-5.ogg is unused
+Resource /home/trewe/Games/wesnoth/1.11/data/core/sounds/zombie-hit-6.ogg is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/halo/shadow-mage-halo4.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/halo/shadow-mage-halo5.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/halo/shadow-mage-halo6.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/items/1_VS_0.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/items/1_VS_1.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/items/1_VS_2.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/items/1_VS_3.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/items/2_VS_1.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/items/2_VS_2.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/items/2_VS_3.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/items/elvish-archer-kneel.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/items/elvish-mariner-kneel.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/story/alduin.jpg is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/story/cave_illien.jpg is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/story/desert_island.jpg is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/story/fire_island.jpg is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/story/frozen_land.jpg is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/story/goblins.jpeg is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/elvish-mariner-attack-ranged.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/human-outlaws/shadow-lord-defend-hit4.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/human-outlaws/shadow-mage-ranged-4.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/human-outlaws/shadow-mage-ranged-5.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/lvl0s/courier-attack.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/lvl0s/courier-attack1.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/lvl0s/courier-attack2.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/lvl0s/courier-defend.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/lvl0s/courier-moving.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/lvl0s/courier.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/sailor-attack-4.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/unused/wolf-attack.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/unused/wolf-defend1.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/unused/wolf-defend2.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/images/units/unused/wolf.png is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/A_Kings_Demand.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/A_Naval_Engagement.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Back_to_the_Ship.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Blackmore_the_Black.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Cave_Illirien.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Deadly_Alliance.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Escaping_the_Orcs.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Fire_Island.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Frozen_Lands.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Off_the_Peninsula.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Orc_Mountain.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Saving_Elensefar.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Saving_Elensefar_harbour.mask is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Saving_Elensefar_north.mask is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Saving_Elensefar_south.mask is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Saving_Elensefar_split.mask is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Sea_Battle/Variation_N.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Sea_Battle/Variation_NE.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Sea_Battle/Variation_NW.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Sea_Battle/Variation_S.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Sea_Battle/Variation_SE.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Sea_Battle/Variation_SW.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/The_Desert_Island.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/The_High_Seas.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/The_Ruined_Port.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/The_Swampland.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Theft.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Traitors.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Unknown_Horizons.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/Wesnothian_Forces.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/fake1-Attacked_at_Sea.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/fake2-Return_to_Elensefar.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/fake3-Epilogue.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/goblin_island.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/isle_alduin.map is unused
+Resource /home/trewe/src/umc-campaigns/Saving_Elensefar/maps/lizard_trap.map is unused
